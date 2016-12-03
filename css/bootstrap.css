@@ -37,6 +37,11 @@ section,
 summary {
   display: block;
 }
+
+.profilePic{
+  display: block;
+  margin: auto;
+}
 audio,
 canvas,
 progress,
@@ -93,8 +98,6 @@ sup {
 sub {
   bottom: -0.25em;
 }
-img {
-  border: 0;
 }
 svg:not(:root) {
   overflow: hidden;
@@ -246,6 +249,7 @@ figure {
 }
 img {
   vertical-align: middle;
+  width: 100%;
 }
 .img-responsive {
   display: block;
