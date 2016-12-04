@@ -272,7 +272,30 @@ f
   .preview-panel:hover {
     border: 1px solid #e8e8e8; }
 
+/** image centering **/
 img.center{
     display: block;
     margin: auto;
+}
+img.tumbnails{
+  height: 15%;
+  width: 15%; 
+  margin: 10px;
+}
+
+/** lista de las fotos en el post **/
+ul {
+  list-style: none;
+  display: inline;
+  margin: 0 10px 0 0;
+}
+
+/** esto hace que las fotos esten uno al lado de otra y separadas **/
+.thumbnails li {
+  display: inline;
+  margin: 0 10px 0 0;
+}
+/** this is the main image of the posts**/
+.mainImg{
+  width: 420px;
 }
