@@ -30,8 +30,9 @@ ul, ol, dl, figure {
 
  /** esto son las fotos que estan en la entrada del website**/
 img.imgHome {
-  max-width: 100%;
-  vertical-align: middle; }
+    width: 250px;
+    vertical-align: middle;
+    height: 195px;}
 
 /**
  * Figures
@@ -108,8 +109,8 @@ pre {
  * Wrapper
  */
 .wrapper {
-  max-width: -webkit-calc(800px - (30px * 2));
-  max-width: calc(800px - (30px * 2));
+  
+  max-width: 1000px;
   margin-right: auto;
   margin-left: auto;
   padding-right: 30px;
@@ -265,6 +266,10 @@ f
  * Misc
  */
 .preview-panel {
+  width: 300px;
+  text-align: center;
+  padding: 10px;
+  -webkit-box-sizing: border-box;
   padding: 10px;
   box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -298,7 +303,9 @@ ul {
 }
 /** this is the main image of the posts**/
 .mainImg{
-  width: 420px;
+  width: 38em;
+  margin-left: auto;
+  margin-right: auto;
 }
 .imgText{
   text-align: center;
