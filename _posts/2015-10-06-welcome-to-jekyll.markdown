@@ -1,28 +1,28 @@
 ---
 layout: post
-title:  "Guaynabo city paradise"
+title:  "Bayamon, Valencia"
 date:   2015-10-06 15:39:40
-preview: http://placehold.it/300x300
+preview: /propiedades/venta/bayamon-valencia/ba3.jpg
 ---
 
 <div class="mainImg">
-	<img src="/img/casa1.jpg" alt="Placeholder" class="custom">
+	<img src="/propiedades/venta/bayamon-valencia/ba3.jpg" alt="Placeholder" class="custom">
 </div>
 
 <ul class="thumbnails">
   <li>
-    <a href="/img/casa1.jpg">
-      <img class="tumbnails" src="/img/casa1.jpg" alt="Thumbnail">
+    <a href="/propiedades/venta/bayamon-valencia/ba3.jpg">
+      <img class="tumbnails" src="/propiedades/venta/bayamon-valencia/ba3.jpg" alt="Thumbnail">
     </a>
   </li>
   <li>
-    <a href="/img/casa1.jpg">
-      <img class="tumbnails" src="/img/casa1.jpg" alt="Thumbnail">
+    <a href="/propiedades/venta/bayamon-valencia/ba2.jpg">
+      <img class="tumbnails" src="/propiedades/venta/bayamon-valencia/ba2.jpg" alt="Thumbnail">
     </a>
   </li>
   <li>
-    <a href="path/to/larger-image.jpg">
-      <img class="tumbnails" src="path/to/thumbnail.jpg" alt="Thumbnail">
+    <a href="/propiedades/venta/bayamon-valencia/ba1.jpg">
+      <img class="tumbnails" src="/propiedades/venta/bayamon-valencia/ba1.jpg" alt="Thumbnail">
     </a>
   </li>
 </ul>

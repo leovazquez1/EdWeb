@@ -27,10 +27,9 @@ p, blockquote, pre,
 ul, ol, dl, figure {
   margin-bottom: 15px; }
 
-/**
- * Images
- */
-img {
+
+ /** esto son las fotos que estan en la entrada del website**/
+img.imgHome {
   max-width: 100%;
   vertical-align: middle; }
 
@@ -237,7 +236,9 @@ f
 .post-title {
   font-size: 42px;
   letter-spacing: -1px;
-  line-height: 1; }
+  line-height: 1;
+  text-align: center;
+}
   @media screen and (max-width: 800px) {
     .post-title {
       font-size: 36px; } }
@@ -298,4 +299,7 @@ ul {
 /** this is the main image of the posts**/
 .mainImg{
   width: 420px;
+}
+.imgText{
+  text-align: center;
 }
