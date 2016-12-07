@@ -303,10 +303,8 @@ ul {
 }
 /** this is the main image of the posts**/
 .mainImg{
-  width: 38em;
-  margin-left: auto;
-  margin-right: auto;
-}
+  
+ }
 .imgText{
   text-align: center;
 }

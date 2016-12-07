@@ -49,11 +49,11 @@ preview: /Propiedades/venta/Bo. Martin Gonzalez- Carolina/IMG_0691.jpg
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 	<script type="text/javascript" src="/js/jquery.simpleGal.js"></script>
 	<script>
-		$(document).ready(function () {
-			$('.thumbnails').simpleGal({
-				mainImage: '.custom'
-			});
-		});
+	  $(document).ready(function () {
+	    $('.thumbnails').simpleGal({
+	      mainImage: '.custom'
+	    });
+	  });
 	</script>
 </center>
 

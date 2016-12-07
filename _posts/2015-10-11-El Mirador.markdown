@@ -1,49 +1,29 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2015-10-06 15:39:40
-preview: /Propiedades/venta/cabo rojo/IMG_2335.jpg
+title:  "El Mirador"
+date:   2015-10-11 15:39:40
+preview: /Propiedades/venta/el mirador/elmirador-1.jpg
 ---
 
 <center>
 	<div class="mainImg">
-		<img src="" class="custom">
+		<img src="/Propiedades/venta/el mirador/elmirador-1.jpg" class="custom">
 	</div>
 	<!--aqui comienza las fotos pequeñas -->
 	<ul class="thumbnails">
 	  <li>
-	    <a href="">
-	      <img class="tumbnails" src="" alt="Thumbnail">
+	    <a href="/Propiedades/venta/el mirador/elmirador-1.jpg">
+	      <img class="tumbnails" src="/Propiedades/venta/el mirador/elmirador-1.jpg" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="">
-	      <img class="tumbnails" src="" alt="Thumbnail">
+	    <a href="/Propiedades/venta/el mirador/elmirador-2.jpg">
+	      <img class="tumbnails" src="/Propiedades/venta/el mirador/elmirador-2.jpg" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="">
-	      <img class="tumbnails" src="" alt="Thumbnail">
-	    </a>
-	  </li>
-	  <li>
-	    <a href="">
-	      <img class="tumbnails" src="" alt="Thumbnail">
-	    </a>
-	  </li>
-	  <li>
-	    <a href="">
-	      <img class="tumbnails" src="" alt="Thumbnail">
-	    </a>
-	  </li>
-	  <li>
-	    <a href="">
-	      <img class="tumbnails" src="" alt="Thumbnail">
-	    </a>
-	  </li>
-	  <li>
-	    <a href="">
-	      <img class="tumbnails" src="" alt="Thumbnail">
+	    <a href="/Propiedades/venta/el mirador/elmirador-3.jpg">
+	      <img class="tumbnails" src="/Propiedades/venta/el mirador/elmirador-3.jpg" alt="Thumbnail">
 	    </a>
 	  </li>
 	</ul>
