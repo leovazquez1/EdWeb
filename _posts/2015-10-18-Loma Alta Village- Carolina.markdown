@@ -2,7 +2,7 @@
 layout: post
 title:  "Carolina, Loma Alta Village"
 date:   2015-10-18 15:39:40
-preview: /Propiedades/venta/loma alta village- carolina/img_7054[1].jpg
+preview: /Propiedades/venta/Loma Alta Village- Carolina/IMG_7054[1].jpg
 ---
 
 <center>

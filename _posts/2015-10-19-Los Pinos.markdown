@@ -1,0 +1,91 @@
+---
+layout: post
+title:  "Los Pinos"
+date:   2015-10-19 15:39:40
+preview: /Propiedades/venta/Los Pinos/IMG_6682.jpg
+---
+
+<center>
+	<div class="mainImg">
+		<img src="/Propiedades/venta/Los Pinos/IMG_6682.jpg" class="custom">
+	</div>
+	<!--aqui comienza las fotos pequeñas -->
+	<ul class="thumbnails">
+	  <li>
+	    <a href="/Propiedades/venta/Los Pinos/IMG_6682.jpg">
+	      <img class="tumbnails" src="/Propiedades/venta/Los Pinos/IMG_6682.jpg" alt="Thumbnail">
+	    </a>
+	  </li>
+	  <li>
+	    <a href="/Propiedades/venta/Los Pinos/IMG_6054.jpg">
+	      <img class="tumbnails" src="/Propiedades/venta/Los Pinos/IMG_60654.jpg" alt="Thumbnail">
+	    </a>
+	  </li>
+	  <li>
+	    <a href="/Propiedades/venta/Los Pinos/IMG_6055.jpg">
+	      <img class="tumbnails" src="/Propiedades/venta/Los Pinos/IMG_6055.jpg" alt="Thumbnail">
+	    </a>
+	  </li>
+	  <li>
+	    <a href="/Propiedades/venta/Los Pinos/IMG_6056.jpg">
+	      <img class="tumbnails" src="/Propiedades/venta/Los Pinos/IMG_6056.jpg" alt="Thumbnail">
+	    </a>
+	  </li>
+	  <li>
+	    <a href="/Propiedades/venta/Los Pinos/IMG_6057.jpg">
+	      <img class="tumbnails" src="/Propiedades/venta/Los Pinos/IMG_6057.jpg" alt="Thumbnail">
+	    </a>
+	  </li>
+	  <li>
+	    <a href="/Propiedades/venta/Los Pinos/IMG_6058.jpg">
+	      <img class="tumbnails" src="/Propiedades/venta/Los Pinos/IMG_6058.jpg" alt="Thumbnail">
+	    </a>
+	  </li>
+	  <li>
+	    <a href="/Propiedades/venta/Los Pinos/IMG_6059.jpg">
+	      <img class="tumbnails" src="/Propiedades/venta/Los Pinos/IMG_6059.jpg" alt="Thumbnail">
+	    </a>
+	  </li>
+	  <li>
+	    <a href="/Propiedades/venta/Los Pinos/IMG_6060.jpg">
+	      <img class="tumbnails" src="/Propiedades/venta/Los Pinos/IMG_6060.jpg" alt="Thumbnail">
+	    </a>
+	  </li>
+	  <li>
+	    <a href="/Propiedades/venta/Los Pinos/IMG_6061.jpg">
+	      <img class="tumbnails" src="/Propiedades/venta/Los Pinos/IMG_6061.jpg" alt="Thumbnail">
+	    </a>
+	  </li>
+	  <li>
+	    <a href="/Propiedades/venta/Los Pinos/IMG_6683.jpg">
+	      <img class="tumbnails" src="/Propiedades/venta/Los Pinos/IMG_6683.jpg" alt="Thumbnail">
+	    </a>
+	  </li>
+	  <li>
+	    <a href="/Propiedades/venta/Los Pinos/IMG_6684.jpg">
+	      <img class="tumbnails" src="/Propiedades/venta/Los Pinos/IMG_6684.jpg" alt="Thumbnail">
+	    </a>
+	  </li>
+	  <li>
+	    <a href="/Propiedades/venta/Los Pinos/IMG_6685.jpg">
+	      <img class="tumbnails" src="/Propiedades/venta/Los Pinos/IMG_6685.jpg" alt="Thumbnail">
+	    </a>
+	  </li>
+	  <li>
+	    <a href="/Propiedades/venta/Los Pinos/IMG_6686.jpg">
+	      <img class="tumbnails" src="/Propiedades/venta/Los Pinos/IMG_6686.jpg" alt="Thumbnail">
+	    </a>
+	  </li>
+	</ul>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+	<script type="text/javascript" src="/js/jquery.simpleGal.js"></script>
+	<script>
+		$(document).ready(function () {
+			$('.thumbnails').simpleGal({
+				mainImage: '.custom'
+			});
+		});
+	</script>
+</center>
+
+Bavaria ipsum dolor sit amet g’hupft wia gsprunga wolln dringma aweng oba Biazelt hogg di hera helfgod. Sog i hawadere midananda nomoi a bissal wos gehd ollaweil gor kumm geh naa jo leck mi, Xaver: Weiznglasl i hob di liab des muas ma hoid kenna.
