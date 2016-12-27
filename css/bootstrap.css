@@ -1487,6 +1487,7 @@ select[multiple].input-lg {
 .nav > li {
   position: relative;
   display: block;
+  display: inherit;
 }
 .nav > li > a {
   position: relative;

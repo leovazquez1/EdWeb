@@ -2,18 +2,18 @@
 layout: post
 title:  "Santurce, Comercial Antiguo Tostado"
 date:   2015-10-26 15:39:40
-preview: /Propiedades/venta/santurce-comercial Antiguo Tostado/tostado.jpg
+preview: /Propiedades/venta/Santurce-Comercial Antiguo Tostado/1.png
 ---
 
 <center>
 	<div class="mainImg">
-		<img src="/Propiedades/venta/santurce-comercial Antiguo Tostado/tostado.jpg" class="custom">
+		<img src="/Propiedades/venta/santurce-comercial Antiguo Tostado/1.png" class="custom">
 	</div>
 	<!--aqui comienza las fotos pequeñas -->
 	<ul class="thumbnails">
 	  <li>
-	    <a href="/Propiedades/venta/santurce-comercial Antiguo Tostado/tostado.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/santurce-comercial Antiguo Tostado/tostado.jpg" alt="Thumbnail">
+	    <a href="/Propiedades/venta/santurce-comercial Antiguo Tostado/1.png">
+	      <img class="tumbnails" src="/Propiedades/venta/santurce-comercial Antiguo Tostado/1.png" alt="Thumbnail">
 	    </a>
 	  </li>
 	</ul>

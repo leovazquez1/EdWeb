@@ -113,6 +113,7 @@ pre {
   max-width: 1000px;
   margin-right: auto;
   margin-left: auto;
+  display: inline-block;
   padding-right: 30px;
   padding-left: 30px; }
   @media screen and (max-width: 800px) {
@@ -206,7 +207,9 @@ f
  * Page content
  */
 .page-content {
-  padding: 30px 0; }
+  padding: 30px 0;
+  display: inline;
+}
 
 .page-heading {
   font-size: 20px; }
@@ -307,4 +310,26 @@ ul {
  }
 .imgText{
   text-align: center;
+}
+.custom {
+  max-width: 856px;
+}
+
+/** Seleccion de pueblos en la pagina. **/
+.locationSelector{
+  display: inline-block;
+  vertical-align: top;
+  border-style: solid;
+  border-width: 5px;
+  border-color: #879bc5;
+  margin-left: 15px;
+  list-style-type: none;
+}
+#puebloTopMenu{
+  background: -webkit-linear-gradient(to bottom, #ffffff 0%, #cccccc 100%);  /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(to bottom, #ffffff 0%, #cccccc 100%);     /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(to bottom, #ffffff 0%, #cccccc 100%);   /* For Firefox 3.6 to 15 */
+  background: linear-gradient(to bottom, #ffffff 0%, #cccccc 100%);        /* Standard syntax (must be last) */
+  padding-left: 12px;
+  padding-right: 12px;
 }
