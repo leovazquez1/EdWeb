@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "El Mirador"
+title: "Mirador"
 date:   2015-10-11 15:39:40
 preview: /Propiedades/venta/el mirador/elmirador-1.jpg
 ---

@@ -25,7 +25,7 @@ body {
 h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure {
-  margin-bottom: 15px; }
+  margin-bottom: 10px; }
 
 
  /** esto son las fotos que estan en la entrada del website**/
@@ -274,12 +274,18 @@ f
   padding: 10px;
   -webkit-box-sizing: border-box;
   padding: 10px;
+  display: inline-block;
   box-sizing: border-box;
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
   border: 1px solid #fdfdfd; }
   .preview-panel:hover {
     border: 1px solid #e8e8e8; }
+img.preview-images{
+  width: 250px;
+  vertical-align: middle;
+  height: 195px;
+}
 
 /** image centering **/
 img.center{

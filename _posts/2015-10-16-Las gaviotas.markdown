@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Las Gaviotas"
 date:   2015-10-16 15:39:40
 preview: /Propiedades/venta/las gaviotas/3.jpg
 ---
