@@ -3,10 +3,14 @@ layout: default
 ---
 
 <div class="preview-panel">
-	<img class="preview-imges" src="/Propiedades/venta/vieques residencial-comercial/Vieques residencial/IMG_4777.jpg">
-	<p>propiedad comercial</p>
+	<a href="/2015/10/28/Vieques-residencial/">
+		<img class="preview-images" src="/Propiedades/venta/vieques residencial-comercial/Vieques residencial/IMG_4777.jpg">
+		<p>propiedad comercial</p>
+	</a>
 </div>
 <div class="preview-panel">
-	<img class="preview-imges" src="/Propiedades/venta/vieques residencial-comercial/Vieques comercial/1.jpg">
-	<p>vieques comercial</p>
+	<a href="/2015/10/29/vieques,-comercial/">
+		<img class="preview-images" src="/Propiedades/venta/vieques residencial-comercial/Vieques comercial/1.jpg">
+		<p>vieques comercial</p>
+	</a>
 </div>

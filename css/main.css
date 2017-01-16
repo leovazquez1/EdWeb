@@ -19,6 +19,10 @@ body {
   background-color: #fdfdfd;
   -webkit-text-size-adjust: 100%; }
 
+.nav>li{
+  display: inherit;
+}
+
 /**
  * Set `margin-bottom` to maintain vertical rhythm
  */
@@ -281,6 +285,7 @@ f
   border: 1px solid #fdfdfd; }
   .preview-panel:hover {
     border: 1px solid #e8e8e8; }
+/** this are the images for the pages in the select pueblos**/
 img.preview-images{
   width: 250px;
   vertical-align: middle;
@@ -318,7 +323,7 @@ ul {
   text-align: center;
 }
 .custom {
-  max-width: 856px;
+  max-width: 100%
 }
 
 /** Seleccion de pueblos en la pagina. **/
