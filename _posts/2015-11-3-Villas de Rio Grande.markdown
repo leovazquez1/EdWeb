@@ -12,13 +12,13 @@ preview: /Propiedades/venta/villas de rio grande/3.JPG
 	<!--aqui comienza las fotos pequeñas -->
 	<ul class="thumbnails">
 	  <li>
-	    <a href="/Edweb/Propiedades/venta/villas de rio grande/3.jpg">
-	      <img class="tumbnails" src="/Edweb/Propiedades/venta/villas de rio grande/3.jpg" alt="Thumbnail">
+	    <a href="Edweb/Propiedades/venta/villas de rio grande/3.jpg">
+	      <img class="tumbnails" src="Edweb/Propiedades/venta/villas de rio grande/3.jpg" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Edweb/Propiedades/venta/villas de rio grande/1.jpg">
-	      <img class="tumbnails" src="/Edweb/Propiedades/venta/villas de rio grande/1.jpg" alt="Thumbnail">
+	    <a href="Edweb/Propiedades/venta/villas de rio grande/1.jpg">
+	      <img class="tumbnails" src="Edweb/Propiedades/venta/villas de rio grande/1.jpg" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
