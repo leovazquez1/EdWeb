@@ -2,12 +2,12 @@
 layout: post
 title:  "Villas de Rio Grande"
 date:   2015-11-3 15:39:40
-preview: /Edweb/Propiedades/venta/villas de rio grande/3.jpg
+preview: /Propiedades/venta/villas de rio grande/3.JPG
 ---
 
 <center>
 	<div class="mainImg">
-		<img src="/Edweb/Propiedades/venta/villas de rio grande/3.jpg" class="custom">
+		<img src="/Propiedades/venta/villas de rio grande/3.jpg" class="custom">
 	</div>
 	<!--aqui comienza las fotos pequeñas -->
 	<ul class="thumbnails">
