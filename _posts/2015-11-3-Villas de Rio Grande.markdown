@@ -18,7 +18,7 @@ preview: /Propiedades/venta/villas de rio grande/3.JPG
 	  </li>
 	  <li>
 	    <a href="Edweb/Propiedades/venta/villas de rio grande/1.jpg">
-	      <img class="tumbnails" src="Edweb/Propiedades/venta/villas de rio grande/1.jpg" alt="Thumbnail/">
+	      <img class="tumbnails" src="Edweb/Propiedades/venta/villas de rio grande/1.jpg" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
