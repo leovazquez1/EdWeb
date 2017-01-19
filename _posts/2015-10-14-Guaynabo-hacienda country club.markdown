@@ -2,23 +2,23 @@
 layout: post
 title:  "Guaynabo-hacienda country club"
 date:   2015-10-14 15:39:40
-preview: /Propiedades/venta/guaynabo - hacienda country club/2.jpg
+preview: /Propiedades/venta/Guaynabo - Hacienda Country Club/2.jpg
 ---
 
 <center>
 	<div class="mainImg">
-		<img src="/Propiedades/venta/guaynabo - hacienda country club/2.jpg" class="custom">
+		<img src="/Edweb/Propiedades/venta/Guaynabo - Hacienda Country Club/2.jpg" class="custom">
 	</div>
 	<!--aqui comienza las fotos pequeñas -->
 	<ul class="thumbnails">
 	  <li>
-	    <a href="/Propiedades/venta/guaynabo - hacienda country club/2.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/guaynabo - hacienda country club/2.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Guaynabo - Hacienda Country Club/2.jpg">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Guaynabo - Hacienda Country Club/2.jpg" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/guaynabo - hacienda country club/1.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/guaynabo - hacienda country club/1.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Guaynabo - Hacienda Country Club/1.jpg">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Guaynabo - Hacienda Country Club/1.jpg" alt="Thumbnail">
 	    </a>
 	  </li>
 	</ul>
