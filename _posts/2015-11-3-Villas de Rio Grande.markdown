@@ -7,28 +7,28 @@ preview: /Propiedades/venta/Villas de Rio Grande/3.jpg
 
 <center>
 	<div class="mainImg">
-		<img src="Edweb/Propiedades/venta/Villas de Rio Grande/3.jpg" class="custom"/>
+		<img src="/Edweb/Propiedades/venta/Villas de Rio Grande/3.jpg" class="custom"/>
 	</div>
 	<!--aqui comienza las fotos pequeñas -->
 	<ul class="thumbnails">
 	  <li>
 	    <a href="Edweb/Propiedades/venta/Villas de Rio Grande/3.jpg">
-	      <img class="tumbnails" src="Edweb/Propiedades/venta/Villas de Rio Grande/3.jpg" alt="Thumbnail"/>
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Villas de Rio Grande/3.jpg" alt="Thumbnail"/>
 	    </a>
 	  </li>
 	  <li>
-	    <a href="Edweb/Propiedades/venta/Villas de Rio Grande/1.jpg">
-	      <img class="tumbnails" src="Edweb/Propiedades/venta/Villas de Rio Grande/1.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Villas de Rio Grande/1.jpg">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Villas de Rio Grande/1.jpg" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="Edweb/Propiedades/venta/Villas de Rio Grande/2.jpg">
-	      <img class="tumbnails" src="Edweb/Propiedades/venta/Villas de Rio Grande/2.jpg" alt="Thumbnail"/>
+	    <a href="/Edweb/Propiedades/venta/Villas de Rio Grande/2.jpg">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Villas de Rio Grande/2.jpg" alt="Thumbnail"/>
 	    </a>
 	  </li>
 	  <li>
-	    <a href="Edweb/Propiedades/venta/Villas de Rio Grande/4.jpg">
-	      <img class="tumbnails" src="Edweb/Propiedades/venta/Villas de Rio Grande/4.jpg" alt="Thumbnail"/>
+	    <a href="/Edweb/Propiedades/venta/Villas de Rio Grande/4.jpg">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Villas de Rio Grande/4.jpg" alt="Thumbnail"/>
 	    </a>
 	  </li>
 	  <li>
