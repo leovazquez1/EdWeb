@@ -2,23 +2,23 @@
 layout: post
 title:  "Villa San Anton"
 date:   2015-11-2 15:39:40
-preview: /Propiedades/venta/villa san anton/img_5144.jpg
+preview: /Propiedades/venta/Villa San Anton/IMG_5144.JPG
 ---
 
 <center>
 	<div class="mainImg">
-		<img src="/Propiedades/venta/villa san anton/img_5144.jpg" class="custom">
+		<img src="Edweb/Propiedades/venta/Villa San Anton/IMG_5144.JPG" class="custom">
 	</div>
 	<!--aqui comienza las fotos pequeñas -->
 	<ul class="thumbnails">
 	  <li>
-	    <a href="/Propiedades/venta/villa san anton/img_5144.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/villa san anton/img_5144.jpg" alt="Thumbnail">
+	    <a href="Edweb/Propiedades/venta/Villa San Anton/IMG_5144.JPG">
+	      <img class="tumbnails" src="Edweb/Propiedades/venta/Villa San Anton/IMG_5144.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/villa san anton/img_5145.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/villa san anton/img_5145.jpg" alt="Thumbnail">
+	    <a href="Edweb/Propiedades/venta/Villa San Anton/IMG_5145.JPG">
+	      <img class="tumbnails" src="Edweb/Propiedades/venta/Villa San Anton/IMG_5145.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	</ul>
