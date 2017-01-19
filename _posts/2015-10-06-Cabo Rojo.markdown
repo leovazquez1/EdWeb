@@ -11,23 +11,23 @@ preview: /Propiedades/venta/cabo rojo/IMG_2335.JPG
 	</div>
 	<ul class="thumbnails">
 	  <li>
-	    <a href="/Propiedades/venta/cabo rojo/IMG_2335.JPG">
-	      <img class="tumbnails" src="/Edweb/Propiedades/venta/cabo rojo/IMG_2335.JPG" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/cabo rojo/IMG_2335.JPG">
+	      <img class="thumbnails" src="/Edweb/Propiedades/venta/cabo rojo/IMG_2335.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
 	    <a href="/Propiedades/venta/cabo rojo/IMG_2342.JPG">
-	      <img class="tumbnails" src="/Edweb/Propiedades/venta/cabo rojo/IMG_2342.JPG" alt="Thumbnail">
+	      <img class="thumbnails" src="/Edweb/Propiedades/venta/cabo rojo/IMG_2342.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
 	    <a href="/Propiedades/venta/cabo rojo/IMG_2343.JPG">
-	      <img class="tumbnails" src="/Edweb/Propiedades/venta/cabo rojo/IMG_2343.JPG" alt="Thumbnail">
+	      <img class="thumbnails" src="/Edweb/Propiedades/venta/cabo rojo/IMG_2343.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
 	    <a href="/Propiedades/venta/cabo rojo/IMG_2344.JPG">
-	      <img class="tumbnails" src="/Edweb/Propiedades/venta/cabo rojo/IMG_2344.JPG" alt="Thumbnail">
+	      <img class="thumbnails" src="/Edweb/Propiedades/venta/cabo rojo/IMG_2344.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	</ul>
