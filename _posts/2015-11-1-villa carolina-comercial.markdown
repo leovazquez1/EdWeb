@@ -2,18 +2,18 @@
 layout: post
 title:  "Villa Carolina, comercial"
 date:   2015-11-1 15:39:40
-preview: /Propiedades/venta/villa carolina-comercial/1.jpg
+preview: /Propiedades/venta/Villa Carolina-comercial/1.jpg
 ---
 
 <center>
 	<div class="mainImg">
-		<img src="/Propiedades/venta/villa carolina-comercial/1.jpg" class="custom">
+		<img src="/Edweb/Propiedades/venta/Villa Carolina-comercial/1.jpg" class="custom">
 	</div>
 	<!--aqui comienza las fotos pequeñas -->
 	<ul class="thumbnails">
 	  <li>
-	    <a href="/Propiedades/venta/villa carolina-comercial/1.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/villa carolina-comercial/1.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Villa Carolina-comercial/1.jpg">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Villa Carolina-comercial/1.jpg" alt="Thumbnail">
 	    </a>
 	  </li>
 	</ul>
