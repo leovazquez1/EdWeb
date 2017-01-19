@@ -7,13 +7,13 @@ preview: /Propiedades/venta/Santurce-Comercial Antiguo Tostado/1.png
 
 <center>
 	<div class="mainImg">
-		<img src="/Propiedades/venta/santurce-comercial Antiguo Tostado/1.png" class="custom">
+		<img src="/Edweb/Propiedades/venta/Santurce-Comercial Antiguo Tostado/1.png" class="custom">
 	</div>
 	<!--aqui comienza las fotos pequeñas -->
 	<ul class="thumbnails">
 	  <li>
-	    <a href="/Propiedades/venta/santurce-comercial Antiguo Tostado/1.png">
-	      <img class="tumbnails" src="/Propiedades/venta/santurce-comercial Antiguo Tostado/1.png" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Santurce-Comercial Antiguo Tostado/1.png">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Santurce-Comercial Antiguo Tostado/1.png" alt="Thumbnail">
 	    </a>
 	  </li>
 	</ul>
