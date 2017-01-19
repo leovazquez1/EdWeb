@@ -18,7 +18,7 @@ preview: /Propiedades/venta/vieques residencial-comercial/Vieques comercial/1.jp
 	  </li>
 	  <li>
 	    <a href="/Edweb/Propiedades/venta/vieques residencial-comercial/Vieques comercial/2.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/vieques residencial-comercial/Vieques comercial/2.jpg" alt="Thumbnail">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/vieques residencial-comercial/Vieques comercial/2.jpg" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
