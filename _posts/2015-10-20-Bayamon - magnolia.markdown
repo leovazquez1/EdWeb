@@ -2,23 +2,23 @@
 layout: post
 title:  "Bayamón, Magnolia"
 date:   2015-10-20 15:39:40
-preview: /Propiedades/venta/magnolia - bayamon/img_8101.jpg
+preview: /Propiedades/venta/Magnolia - Bayamon/IMG_8101.JPG
 ---
 
 <center>
 	<div class="mainImg">
-		<img src="/Propiedades/venta/magnolia - bayamon/img_8101.jpg" class="custom">
+		<img src="/Edweb/Propiedades/venta/Magnolia - Bayamon/IMG_8101.JPG" class="custom">
 	</div>
 	<!--aqui comienza las fotos pequeñas -->
 	<ul class="thumbnails">
 	  <li>
-	    <a href="/Propiedades/venta/magnolia - bayamon/img_8101.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/magnolia - bayamon/img_8101.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Magnolia - Bayamon/IMG_8101.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Magnolia - Bayamon/IMG_8101.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/magnolia - bayamon/img_8545.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/magnolia - bayamon/img_8545.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Magnolia - Bayamon/IMG_8545.jpg">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Magnolia - Bayamon/IMG_8545.jpg" alt="Thumbnail">
 	    </a>
 	  </li>
 	</ul>
