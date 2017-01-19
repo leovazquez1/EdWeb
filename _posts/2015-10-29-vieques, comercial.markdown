@@ -7,33 +7,33 @@ preview: /Propiedades/venta/vieques residencial-comercial/Vieques comercial/1.jp
 
 <center>
 	<div class="mainImg">
-		<img src="/Propiedades/venta/vieques residencial-comercial/Vieques comercial/1.jpg" class="custom">
+		<img src="/Edweb/Propiedades/venta/vieques residencial-comercial/Vieques comercial/1.jpg" class="custom">
 	</div>
 	<!--aqui comienza las fotos pequeñas -->
 	<ul class="thumbnails">
 	  <li>
-	    <a href="/Propiedades/venta/vieques residencial-comercial/Vieques comercial/1.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/vieques residencial-comercial/Vieques comercial/1.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/vieques residencial-comercial/Vieques comercial/1.jpg">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/vieques residencial-comercial/Vieques comercial/1.jpg" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/vieques residencial-comercial/Vieques comercial/2.jpg">
+	    <a href="/Edweb/Propiedades/venta/vieques residencial-comercial/Vieques comercial/2.jpg">
 	      <img class="tumbnails" src="/Propiedades/venta/vieques residencial-comercial/Vieques comercial/2.jpg" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/vieques residencial-comercial/Vieques comercial/pr3.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/vieques residencial-comercial/Vieques comercial/pr3.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/vieques residencial-comercial/Vieques comercial/pr3.jpg">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/vieques residencial-comercial/Vieques comercial/pr3.jpg" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/vieques residencial-comercial/Vieques comercial/pr4.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/vieques residencial-comercial/Vieques comercial/pr4.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/vieques residencial-comercial/Vieques comercial/pr4.jpg">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/vieques residencial-comercial/Vieques comercial/pr4.jpg" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/vieques residencial-comercial/Vieques comercial/pr1.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/vieques residencial-comercial/Vieques comercial/pr1.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/vieques residencial-comercial/Vieques comercial/pr1.jpg">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/vieques residencial-comercial/Vieques comercial/pr1.jpg" alt="Thumbnail">
 	    </a>
 	  </li>
 	</ul>
