@@ -2,78 +2,78 @@
 layout: post
 title:  "Carolina, Loma Alta Village"
 date:   2015-10-18 15:39:40
-preview: /Propiedades/venta/Loma Alta Village- Carolina/5.jpg
+preview: /Propiedades/venta/Loma Alta Village- Carolina/5.JPG
 ---
 
 <center>
 	<div class="mainImg">
-		<img src="/Propiedades/venta/Loma Alta Village- Carolina/5.jpg" class="custom">
+		<img src="/Edweb/Propiedades/venta/Loma Alta Village- Carolina/5.JPG" class="custom">
 	</div>
 	<!--aqui comienza las fotos pequeñas -->
 	<ul class="thumbnails">
 	  <li>
-	    <a href="/Propiedades/venta/Loma Alta Village- Carolina/5.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/Loma Alta Village- Carolina/5.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Loma Alta Village- Carolina/5.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Loma Alta Village- Carolina/5.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/Loma Alta Village- Carolina/1.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/Loma Alta Village- Carolina/1.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Loma Alta Village- Carolina/1.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Loma Alta Village- Carolina/1.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/Loma Alta Village- Carolina/2.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/Loma Alta Village- Carolina/2.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Loma Alta Village- Carolina/2.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Loma Alta Village- Carolina/2.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/Loma Alta Village- Carolina/3.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/Loma Alta Village- Carolina/3.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Loma Alta Village- Carolina/3.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Loma Alta Village- Carolina/3.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/Loma Alta Village- Carolina/4.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/Loma Alta Village- Carolina/4.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Loma Alta Village- Carolina/4.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Loma Alta Village- Carolina/4.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/Loma Alta Village- Carolina/6.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/Loma Alta Village- Carolina/6.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Loma Alta Village- Carolina/6.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Loma Alta Village- Carolina/6.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/Loma Alta Village- Carolina/7.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/Loma Alta Village- Carolina/7.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Loma Alta Village- Carolina/7.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Loma Alta Village- Carolina/7.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/Loma Alta Village- Carolina/8.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/Loma Alta Village- Carolina/8.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Loma Alta Village- Carolina/8.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Loma Alta Village- Carolina/8.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/Loma Alta Village- Carolina/9.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/Loma Alta Village- Carolina/9.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Loma Alta Village- Carolina/9.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Loma Alta Village- Carolina/9.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/Loma Alta Village- Carolina/10.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/Loma Alta Village- Carolina/10.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Loma Alta Village- Carolina/10.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Loma Alta Village- Carolina/10.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/Loma Alta Village- Carolina/11.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/Loma Alta Village- Carolina/11.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Loma Alta Village- Carolina/11.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Loma Alta Village- Carolina/11.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/Loma Alta Village- Carolina/12.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/Loma Alta Village- Carolina/12.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Loma Alta Village- Carolina/12.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Loma Alta Village- Carolina/12.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/Loma Alta Village- Carolina/13.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/Loma Alta Village- Carolina/13.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Loma Alta Village- Carolina/13.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Loma Alta Village- Carolina/13.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	</ul>
