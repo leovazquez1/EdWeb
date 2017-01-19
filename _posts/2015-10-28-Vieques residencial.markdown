@@ -2,58 +2,58 @@
 layout: post
 title:  "Vieques"
 date:   2015-10-28 15:39:40
-preview: /Propiedades/venta/vieques residencial-comercial/Vieques residencial/IMG_4777.jpg
+preview: /Propiedades/venta/vieques residencial-comercial/Vieques residencial/IMG_4777.JPG
 ---
 
 <center>
 	<div class="mainImg">
-		<img src="/Propiedades/venta/vieques residencial-comercial/Vieques residencial/IMG_4777.jpg" class="custom">
+		<img src="/Edweb/Propiedades/venta/vieques residencial-comercial/Vieques residencial/IMG_4777.JPG" class="custom">
 	</div>
 	<!--aqui comienza las fotos pequeñas -->
 	<ul class="thumbnails">
 	  <li>
-	    <a href="/Propiedades/venta/vieques residencial-comercial/Vieques residencial/IMG_4777.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/vieques residencial-comercial/Vieques residencial/IMG_4777.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/vieques residencial-comercial/Vieques residencial/IMG_4777.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/vieques residencial-comercial/Vieques residencial/IMG_4777.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/vieques residencial-comercial/Vieques residencial/IMG_4778.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/vieques residencial-comercial/Vieques residencial/IMG_4778.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/vieques residencial-comercial/Vieques residencial/IMG_4778.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/vieques residencial-comercial/Vieques residencial/IMG_4778.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/vieques residencial-comercial/Vieques residencial/IMG_4779.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/vieques residencial-comercial/Vieques residencial/IMG_4779.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/vieques residencial-comercial/Vieques residencial/IMG_4779.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/vieques residencial-comercial/Vieques residencial/IMG_4779.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/vieques residencial-comercial/Vieques residencial/IMG_9019.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/vieques residencial-comercial/Vieques residencial/IMG_9019.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/vieques residencial-comercial/Vieques residencial/IMG_9019.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/vieques residencial-comercial/Vieques residencial/IMG_9019.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/vieques residencial-comercial/Vieques residencial/IMG_9020.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/vieques residencial-comercial/Vieques residencial/IMG_9020.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/vieques residencial-comercial/Vieques residencial/IMG_9020.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/vieques residencial-comercial/Vieques residencial/IMG_9020.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/vieques residencial-comercial/Vieques residencial/IMG_9022.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/vieques residencial-comercial/Vieques residencial/IMG_9022.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/vieques residencial-comercial/Vieques residencial/IMG_9022.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/vieques residencial-comercial/Vieques residencial/IMG_9022.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/vieques residencial-comercial/Vieques residencial/IMG_9024.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/vieques residencial-comercial/Vieques residencial/IMG_9024.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/vieques residencial-comercial/Vieques residencial/IMG_9024.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/vieques residencial-comercial/Vieques residencial/IMG_9024.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/vieques residencial-comercial/Vieques residencial/IMG_9025.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/vieques residencial-comercial/Vieques residencial/IMG_9025.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/vieques residencial-comercial/Vieques residencial/IMG_9025.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/vieques residencial-comercial/Vieques residencial/IMG_9025.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/vieques residencial-comercial/Vieques residencial/IMG_9027.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/vieques residencial-comercial/Vieques residencial/IMG_9027.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/vieques residencial-comercial/Vieques residencial/IMG_9027.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/vieques residencial-comercial/Vieques residencial/IMG_9027.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	</ul>
