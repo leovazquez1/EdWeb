@@ -6,7 +6,7 @@ preview: /Propiedades/venta/Bello-Horizonte-Carolina/bh3.jpg
 ---
 <center>
 	<div class="mainImg">
-		<img src="/Propiedades/venta/Bello-Horizonte-Carolina/bh3.jpg" alt="Placeholder" class="custom">
+		<img src="/Edweb/Propiedades/venta/Bello-Horizonte-Carolina/bh3.jpg" alt="Placeholder" class="custom">
 	</div>
 	<ul class="thumbnails">
 	  <li>
