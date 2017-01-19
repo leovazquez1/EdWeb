@@ -2,63 +2,63 @@
 layout: post
 title:  "Isla Verde, Mundo Feliz"
 date:   2015-10-22 15:39:40
-preview: /Propiedades/venta/mundo feliz isla verde/13.jpg
+preview: /Propiedades/venta/Mundo Feliz Isla Verde/13.JPG
 ---
 
 <center>
 	<div class="mainImg">
-		<img src="/Propiedades/venta/mundo feliz isla verde/13.jpg" class="custom">
+		<img src="/Edweb/Propiedades/venta/Mundo Feliz Isla Verde/13.JPG" class="custom">
 	</div>
 	<!--aqui comienza las fotos pequeñas -->
 	<ul class="thumbnails">
 	  <li>
-	    <a href="/Propiedades/venta/mundo feliz isla verde/13.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/mundo feliz isla verde/13.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Mundo Feliz Isla Verde/13.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Mundo Feliz Isla Verde/13.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/mundo feliz isla verde/4.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/mundo feliz isla verde/4.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Mundo Feliz Isla Verde/4.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Mundo Feliz Isla Verde/4.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/mundo feliz isla verde/5.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/mundo feliz isla verde/5.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Mundo Feliz Isla Verde/5.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Mundo Feliz Isla Verde/5.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/mundo feliz isla verde/6.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/mundo feliz isla verde/6.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Mundo Feliz Isla Verde/6.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Mundo Feliz Isla Verde/6.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/mundo feliz isla verde/7.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/mundo feliz isla verde/7.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Mundo Feliz Isla Verde/7.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Mundo Feliz Isla Verde/7.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/mundo feliz isla verde/8.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/mundo feliz isla verde/8.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Mundo Feliz Isla Verde/8.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Mundo Feliz Isla Verde/8.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/mundo feliz isla verde/9.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/mundo feliz isla verde/9.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Mundo Feliz Isla Verde/8.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Mundo Feliz Isla Verde/8.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/mundo feliz isla verde/10.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/mundo feliz isla verde/10.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Mundo Feliz Isla Verde/8.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Mundo Feliz Isla Verde/8.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/mundo feliz isla verde/11.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/mundo feliz isla verde/11.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Mundo Feliz Isla Verde/11.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Mundo Feliz Isla Verde/11.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/mundo feliz isla verde/12.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/mundo feliz isla verde/12.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Mundo Feliz Isla Verde/12.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Mundo Feliz Isla Verde/12.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	</ul>
