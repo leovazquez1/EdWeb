@@ -2,18 +2,18 @@
 layout: post
 title:  "Salinas"
 date:   2015-10-24 15:39:40
-preview: /Propiedades/venta/salinas/1.jpg
+preview: /Propiedades/venta/Salinas/1.jpg
 ---
 
 <center>
 	<div class="mainImg">
-		<img src="/Propiedades/venta/salinas/1.jpg" class="custom">
+		<img src="/Edweb/Propiedades/venta/Salinas/1.jpg" class="custom">
 	</div>
 	<!--aqui comienza las fotos pequeñas -->
 	<ul class="thumbnails">
 	  <li>
-	    <a href="/Propiedades/venta/salinas/1.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/salinas/1.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Salinas/1.jpg">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Salinas/1.jpg" alt="Thumbnail">
 	    </a>
 	  </li>
 	</ul>
