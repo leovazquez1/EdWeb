@@ -2,28 +2,28 @@
 layout: post
 title:  "Las Gaviotas"
 date:   2015-10-16 15:39:40
-preview: /Propiedades/venta/las gaviotas/3.jpg
+preview: /Propiedades/venta/Las Gaviotas/3.jpg
 ---
 
 <center>
 	<div class="mainImg">
-		<img src="/Propiedades/venta/las gaviotas/3.jpg" class="custom">
+		<img src="/Edweb/Propiedades/venta/Las Gaviotas/3.jpg" class="custom">
 	</div>
 	<!--aqui comienza las fotos pequeñas -->
 	<ul class="thumbnails">
 	  <li>
-	    <a href="/Propiedades/venta/las gaviotas/1.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/las gaviotas/1.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Las Gaviotas/1.jpg">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Las Gaviotas/1.jpg" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/las gaviotas/2.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/las gaviotas/2.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Las Gaviotas/2.jpg">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Las Gaviotas/2.jpg" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/las gaviotas/3.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/las gaviotas/3.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Las Gaviotas/3.jpg">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Las Gaviotas/3.jpg" alt="Thumbnail">
 	    </a>
 	  </li>
 	</ul>
