@@ -13,7 +13,7 @@ preview: /Propiedades/venta/Villa San Anton/IMG_5144.JPG
 	<ul class="thumbnails">
 	  <li>
 	    <a href="/Edweb/Propiedades/venta/Villa San Anton/IMG_5144.JPG">
-	      <img class="tumbnails" src="Edweb/Propiedades/venta/Villa San Anton/IMG_5144.JPG" alt="Thumbnail">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Villa San Anton/IMG_5144.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
