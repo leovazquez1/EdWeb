@@ -2,68 +2,68 @@
 layout: post
 title:  "Caguas, San Antonio"
 date:   2015-10-25 15:39:40
-preview: /Propiedades/venta/san antonio-caguas/sa1.jpg
+preview: /Propiedades/venta/SAN ANTONIO-CAGUAS/SA1.jpg
 ---
 
 <center>
 	<div class="mainImg">
-		<img src="/Propiedades/venta/san antonio-caguas/sa1.jpg" class="custom">
+		<img src="/Edweb/Propiedades/venta/SAN ANTONIO-CAGUAS/SA1.jpg" class="custom">
 	</div>
 	<!--aqui comienza las fotos pequeñas -->
 	<ul class="thumbnails">
 	  <li>
-	    <a href="/Propiedades/venta/san antonio-caguas/sa1.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/san antonio-caguas/sa1.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/SAN ANTONIO-CAGUAS/SA1.jpg">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/SAN ANTONIO-CAGUAS/SA1.jpg" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/san antonio-caguas/sa2.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/san antonio-caguas/sa2.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/SAN ANTONIO-CAGUAS/SA2.jpg">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/SAN ANTONIO-CAGUAS/SA1.jpg" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/san antonio-caguas/sa3.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/san antonio-caguas/sa3.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/SAN ANTONIO-CAGUAS/SA3.jpg">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/SAN ANTONIO-CAGUAS/SA3.jpg" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/san antonio-caguas/sa4.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/san antonio-caguas/sa4.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/SAN ANTONIO-CAGUAS/SA4.jpg">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/SAN ANTONIO-CAGUAS/SA4.jpg" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/san antonio-caguas/sa5.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/san antonio-caguas/sa5.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/SAN ANTONIO-CAGUAS/SA5.jpg">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/SAN ANTONIO-CAGUAS/SA5.jpg" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/san antonio-caguas/sa6.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/san antonio-caguas/sa6.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/SAN ANTONIO-CAGUAS/SA6.jpg">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/SAN ANTONIO-CAGUAS/SA6.jpg" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/san antonio-caguas/img_4227.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/san antonio-caguas/img_4227.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/SAN ANTONIO-CAGUAS/IMG_4227.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/SAN ANTONIO-CAGUAS/IMG_4227.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/san antonio-caguas/img_4229.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/san antonio-caguas/img_4229.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/SAN ANTONIO-CAGUAS/IMG_4229.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/SAN ANTONIO-CAGUAS/IMG_4229.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/san antonio-caguas/img_4232.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/san antonio-caguas/img_4232.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/SAN ANTONIO-CAGUAS/IMG_4232.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/SAN ANTONIO-CAGUAS/IMG_4232.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/san antonio-caguas/img_4233.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/san antonio-caguas/img_4233.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/SAN ANTONIO-CAGUAS/IMG_4233.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/SAN ANTONIO-CAGUAS/IMG_4233.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/san antonio-caguas/img_4247.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/san antonio-caguas/img_4247.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/SAN ANTONIO-CAGUAS/IMG_4247.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/SAN ANTONIO-CAGUAS/IMG_4247.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	</ul>
