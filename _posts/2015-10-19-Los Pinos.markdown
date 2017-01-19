@@ -2,78 +2,78 @@
 layout: post
 title:  "Los Pinos"
 date:   2015-10-19 15:39:40
-preview: /Propiedades/venta/Los Pinos/IMG_6682.jpg
+preview: /Propiedades/venta/Los Pinos/IMG_6682.JPG
 ---
 
 <center>
 	<div class="mainImg">
-		<img src="/Propiedades/venta/Los Pinos/IMG_6682.jpg" class="custom">
+		<img src="/Edweb/Propiedades/venta/Los Pinos/IMG_6682.JPG" class="custom">
 	</div>
 	<!--aqui comienza las fotos pequeñas -->
 	<ul class="thumbnails">
 	  <li>
-	    <a href="/Propiedades/venta/Los Pinos/IMG_6682.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/Los Pinos/IMG_6682.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Los Pinos/IMG_6682.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Los Pinos/IMG_6682.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/Los Pinos/IMG_6054.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/Los Pinos/IMG_60654.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Los Pinos/IMG_60654.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Los Pinos/IMG_60654.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/Los Pinos/IMG_6055.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/Los Pinos/IMG_6055.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Los Pinos/IMG_6055.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Los Pinos/IMG_6055.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/Los Pinos/IMG_6056.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/Los Pinos/IMG_6056.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Los Pinos/IMG_6056.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Los Pinos/IMG_6056.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/Los Pinos/IMG_6057.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/Los Pinos/IMG_6057.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Los Pinos/IMG_6057.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Los Pinos/IMG_6057.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/Los Pinos/IMG_6058.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/Los Pinos/IMG_6058.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Los Pinos/IMG_6058.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Los Pinos/IMG_6058.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/Los Pinos/IMG_6059.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/Los Pinos/IMG_6059.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Los Pinos/IMG_6059.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Los Pinos/IMG_6059.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/Los Pinos/IMG_6060.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/Los Pinos/IMG_6060.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Los Pinos/IMG_6060.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Los Pinos/IMG_6060.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/Los Pinos/IMG_6061.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/Los Pinos/IMG_6061.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Los Pinos/IMG_6061.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Los Pinos/IMG_6061.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/Los Pinos/IMG_6683.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/Los Pinos/IMG_6683.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Los Pinos/IMG_6683.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Los Pinos/IMG_6683.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/Los Pinos/IMG_6684.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/Los Pinos/IMG_6684.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Los Pinos/IMG_6684.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Los Pinos/IMG_6684.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/Los Pinos/IMG_6685.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/Los Pinos/IMG_6685.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Los Pinos/IMG_6685.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Los Pinos/IMG_6685.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/Los Pinos/IMG_6686.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/Los Pinos/IMG_6686.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Los Pinos/IMG_6686.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Los Pinos/IMG_6686.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	</ul>
