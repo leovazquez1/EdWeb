@@ -7,18 +7,18 @@ preview: /Propiedades/venta/Villa San Anton/IMG_5144.JPG
 
 <center>
 	<div class="mainImg">
-		<img src="Edweb/Propiedades/venta/Villa San Anton/IMG_5144.JPG" class="custom">
+		<img src="/Edweb/Propiedades/venta/Villa San Anton/IMG_5144.JPG" class="custom">
 	</div>
 	<!--aqui comienza las fotos pequeñas -->
 	<ul class="thumbnails">
 	  <li>
-	    <a href="Edweb/Propiedades/venta/Villa San Anton/IMG_5144.JPG">
+	    <a href="/Edweb/Propiedades/venta/Villa San Anton/IMG_5144.JPG">
 	      <img class="tumbnails" src="Edweb/Propiedades/venta/Villa San Anton/IMG_5144.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="Edweb/Propiedades/venta/Villa San Anton/IMG_5145.JPG">
-	      <img class="tumbnails" src="Edweb/Propiedades/venta/Villa San Anton/IMG_5145.JPG" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Villa San Anton/IMG_5145.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Villa San Anton/IMG_5145.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	</ul>
