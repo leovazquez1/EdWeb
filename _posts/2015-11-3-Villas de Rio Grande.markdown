@@ -73,12 +73,12 @@ preview: /Propiedades/venta/Villas de Rio Grande/3.jpg
 	  </li>
 	  <li>
 	    <a href="/Edweb/Propiedades/venta/Villas de Rio Grande/13.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/Villas de Rio Grande/13.jpg" alt="Thumbnail">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Villas de Rio Grande/13.jpg" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
 	    <a href="/Edweb/Propiedades/venta/Villas de Rio Grande/14.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/Villas de Rio Grande/14.jpg" alt="Thumbnail">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Villas de Rio Grande/14.jpg" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
