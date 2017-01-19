@@ -2,33 +2,33 @@
 layout: post
 title:  "Levitown Boulevard"
 date:   2015-10-17 15:39:40
-preview: /Propiedades/venta/levitown boulevard/img_1036.jpg
+preview: /Propiedades/venta/Levitown Boulevard/IMG_1036.JPG
 ---
 
 <center>
 	<div class="mainImg">
-		<img src="/Propiedades/venta/levitown boulevard/img_1036.jpg" class="custom">
+		<img src="/Edweb/Propiedades/venta/Levitown Boulevard/IMG_1036.JPG" class="custom">
 	</div>
 	<!--aqui comienza las fotos pequeñas -->
 	<ul class="thumbnails">
 	  <li>
-	    <a href="/Propiedades/venta/levitown boulevard/img_1036.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/levitown boulevard/img_1036.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Levitown Boulevard/IMG_1036.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Levitown Boulevard/IMG_1036.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/levitown boulevard/img_1037.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/levitown boulevard/img_1037.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Levitown Boulevard/IMG_1037.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Levitown Boulevard/IMG_1037.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/levitown boulevard/img_1038.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/levitown boulevard/img_1038.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Levitown Boulevard/IMG_1038.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Levitown Boulevard/IMG_1038.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/levitown boulevard/img_1040.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/levitown boulevard/img_1040.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Levitown Boulevard/IMG_1040.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Levitown Boulevard/IMG_1040.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	</ul>
