@@ -2,68 +2,68 @@
 layout: post
 title:  "Bayamon, Palacios"
 date:   2015-10-23 15:39:40
-preview: /Propiedades/venta/palacios- bayamon/9.jpg
+preview: /Propiedades/venta/Palacios- Bayamon/9.JPG
 ---
 
 <center>
 	<div class="mainImg">
-		<img src="/Propiedades/venta/palacios- bayamon/9.jpg" class="custom">
+		<img src="/Edweb/Propiedades/venta/Palacios- Bayamon/9.JPG" class="custom">
 	</div>
 	<!--aqui comienza las fotos pequeñas -->
 	<ul class="thumbnails">
 	  <li>
-	    <a href="/Propiedades/venta/palacios- bayamon/9.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/palacios- bayamon/9.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Palacios- Bayamon/9.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Palacios- Bayamon/9.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/palacios- bayamon/1.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/palacios- bayamon/1.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Palacios- Bayamon/1.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Palacios- Bayamon/1.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/palacios- bayamon/2.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/palacios- bayamon/2.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Palacios- Bayamon/2.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Palacios- Bayamon/2.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/palacios- bayamon/3.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/palacios- bayamon/3.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Palacios- Bayamon/3.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Palacios- Bayamon/3.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/palacios- bayamon/4.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/palacios- bayamon/4.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Palacios- Bayamon/4.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Palacios- Bayamon/4.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/palacios- bayamon/5.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/palacios- bayamon/5.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Palacios- Bayamon/5.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Palacios- Bayamon/5.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/palacios- bayamon/6.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/palacios- bayamon/6.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Palacios- Bayamon/6.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Palacios- Bayamon/6.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/palacios- bayamon/7.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/palacios- bayamon/7.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Palacios- Bayamon/7.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Palacios- Bayamon/7.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/palacios- bayamon/10.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/palacios- bayamon/10.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Palacios- Bayamon/10.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Palacios- Bayamon/10.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/palacios- bayamon/11.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/palacios- bayamon/11.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Palacios- Bayamon/11.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Palacios- Bayamon/11.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/palacios- bayamon/12.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/palacios- bayamon/12.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Palacios- Bayamon/12.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Palacios- Bayamon/12.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	</ul>
