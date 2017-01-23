@@ -2,26 +2,26 @@
 layout: post
 title:  "Bayamon, Valencia"
 date:   2015-10-10 15:39:40
-preview: /propiedades/venta/bayamon-valencia/ba3.jpg
+preview: /Propiedades/venta/BAYAMON-VALENCIA/ba3.jpg
 ---
 <center>
 	<div class="mainImg">
-		<img src="/propiedades/venta/bayamon-valencia/ba3.jpg" alt="Placeholder" class="custom">
+		<img src="/Edweb/Propiedades/venta/BAYAMON-VALENCIA/ba3.jpg" alt="Placeholder" class="custom">
 	</div>
 	<ul class="thumbnails">
 		<li>
-			<a href="/propiedades/venta/bayamon-valencia/ba3.jpg">
-				<img class="tumbnails" src="/propiedades/venta/bayamon-valencia/ba3.jpg" alt="Thumbnail">
+			<a href="/Edweb/Propiedades/venta/BAYAMON-VALENCIA/ba3.jpg">
+				<img class="tumbnails" src="/Edweb/Propiedades/venta/BAYAMON-VALENCIA/ba3.jpg" alt="Thumbnail">
 			</a>
 		</li>
 		<li>
-			<a href="/propiedades/venta/bayamon-valencia/ba2.jpg">
-				<img class="tumbnails" src="/propiedades/venta/bayamon-valencia/ba2.jpg" alt="Thumbnail">
+			<a href="/Edweb/Propiedades/venta/BAYAMON-VALENCIA/ba2.jpg">
+				<img class="tumbnails" src="/Edweb/Propiedades/venta/BAYAMON-VALENCIA/ba2.jpg" alt="Thumbnail">
 			</a>
 		</li>
 		<li>
-			<a href="/propiedades/venta/bayamon-valencia/ba1.jpg">
-				<img class="tumbnails" src="/propiedades/venta/bayamon-valencia/ba1.jpg" alt="Thumbnail">
+			<a href="/Edweb/Propiedades/venta/BAYAMON-VALENCIA/ba1.jpg">
+				<img class="tumbnails" src="/Edweb/Propiedades/venta/BAYAMON-VALENCIA/ba1.jpg" alt="Thumbnail">
 			</a>
 		</li>
 	</ul>
