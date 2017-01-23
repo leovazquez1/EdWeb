@@ -10,48 +10,48 @@ preview: /Propiedades/venta/Bello-Horizonte-Carolina/bh3.jpg
 	</div>
 	<ul class="thumbnails">
 	  <li>
-	    <a href="/Propiedades/venta/Bello-Horizonte-Carolina/bh3.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/Bello-Horizonte-Carolina/bh3.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Bello-Horizonte-Carolina/bh3.jpg">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Bello-Horizonte-Carolina/bh3.jpg" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/Bello-Horizonte-Carolina/bh2.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/Bello-Horizonte-Carolina/bh2.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Bello-Horizonte-Carolina/bh2.jpg">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Bello-Horizonte-Carolina/bh2.jpg" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/Bello-Horizonte-Carolina/bh1.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/Bello-Horizonte-Carolina/bh1.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Bello-Horizonte-Carolina/bh1.jpg">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Bello-Horizonte-Carolina/bh1.jpg" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/Bello-Horizonte-Carolina/bh4.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/Bello-Horizonte-Carolina/bh4.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Bello-Horizonte-Carolina/bh4.jpg">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Bello-Horizonte-Carolina/bh4.jpg" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/Bello-Horizonte-Carolina/bh5.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/Bello-Horizonte-Carolina/bh5.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Bello-Horizonte-Carolina/bh5.jpg">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Bello-Horizonte-Carolina/bh5.jpg" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/Bello-Horizonte-Carolina/bh6.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/Bello-Horizonte-Carolina/bh6.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Bello-Horizonte-Carolina/bh6.jpg">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Bello-Horizonte-Carolina/bh6.jpg" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/Bello-Horizonte-Carolina/bh7.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/Bello-Horizonte-Carolina/bh7.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Bello-Horizonte-Carolina/bh7.jpg">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Bello-Horizonte-Carolina/bh7.jpg" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/Bello-Horizonte-Carolina/bh8.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/Bello-Horizonte-Carolina/bh8.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Bello-Horizonte-Carolina/bh8.jpg">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Bello-Horizonte-Carolina/bh8.jpg" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/Bello-Horizonte-Carolina/bh9.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/Bello-Horizonte-Carolina/bh9.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Bello-Horizonte-Carolina/bh9.jpg">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Bello-Horizonte-Carolina/bh9.jpg" alt="Thumbnail">
 	    </a>
 	  </li>
 	</ul>
