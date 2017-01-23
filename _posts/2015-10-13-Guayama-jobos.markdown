@@ -2,53 +2,53 @@
 layout: post
 title:  "Guayama, Jobos"
 date:   2015-10-13 15:39:40
-preview: /Propiedades/venta/guayama-jobos/Photo 9-15-24.jpg
+preview: /Propiedades/venta/Guayama-Jobos/Photo 9-15-24.jpg
 ---
 
 <center>
 	<div class="mainImg">
-		<img src="/Propiedades/venta/guayama-jobos/Photo 9-15-24.jpg" class="custom">
+		<img src="/Edweb/Propiedades/venta/Guayama-Jobos/Photo 9-15-24.jpg" class="custom">
 	</div>
 	<!--aqui comienza las fotos pequeñas -->
 	<ul class="thumbnails">
 	  <li>
-	    <a href="/Propiedades/venta/guayama-jobos/Photo 9-15-24.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/guayama-jobos/Photo 9-15-24.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Guayama-Jobos/Photo 9-15-24.jpg">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Guayama-Jobos/Photo 9-15-24.jpg" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/guayama-jobos/Photo 9-15-17.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/guayama-jobos/Photo 9-15-17.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Guayama-Jobos/Photo 9-15-17.jpg">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Guayama-Jobos/Photo 9-15-17.jpg" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/guayama-jobos/Photo 9-15-18.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/guayama-jobos/Photo 9-15-18.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Guayama-Jobos/Photo 9-15-18.jpg">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Guayama-Jobos/Photo 9-15-18.jpg" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/guayama-jobos/Photo 9-15-19.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/guayama-jobos/Photo 9-15-19.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Guayama-Jobos/Photo 9-15-19.jpg">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Guayama-Jobos/Photo 9-15-19.jpg" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/guayama-jobos/Photo 9-15-20.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/guayama-jobos/Photo 9-15-20.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Guayama-Jobos/Photo 9-15-20.jpg">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Guayama-Jobos/Photo 9-15-20.jpg" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/guayama-jobos/Photo 9-15-21.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/guayama-jobos/Photo 9-15-21.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Guayama-Jobos/Photo 9-15-21.jpg">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Guayama-Jobos/Photo 9-15-21.jpg" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/guayama-jobos/Photo 9-15-22.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/guayama-jobos/Photo 9-15-22.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Guayama-Jobos/Photo 9-15-22.jpg">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Guayama-Jobos/Photo 9-15-22.jpg" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/guayama-jobos/Photo 9-15-23.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/guayama-jobos/Photo 9-15-2.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Guayama-Jobos/Photo 9-15-2.jpg">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Guayama-Jobos/Photo 9-15-2.jpg" alt="Thumbnail">
 	    </a>
 	  </li>
 	</ul>
