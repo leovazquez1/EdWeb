@@ -2,28 +2,28 @@
 layout: post
 title: "Mirador"
 date:   2015-10-11 15:39:40
-preview: /Propiedades/venta/el mirador/elmirador-1.jpg
+preview: /Propiedades/venta/El Mirador/ElMirador-1.jpg
 ---
 
 <center>
 	<div class="mainImg">
-		<img src="/Propiedades/venta/el mirador/elmirador-1.jpg" class="custom">
+		<img src="/Edweb/Propiedades/venta/El Mirador/ElMirador-1.jpg" class="custom">
 	</div>
 	<!--aqui comienza las fotos pequeñas -->
 	<ul class="thumbnails">
 	  <li>
-	    <a href="/Propiedades/venta/el mirador/elmirador-1.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/el mirador/elmirador-1.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/El Mirador/ElMirador-1.jpg">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/El Mirador/ElMirador-1.jpg" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/el mirador/elmirador-2.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/el mirador/elmirador-2.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/El Mirador/ElMirador-2.jpg">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/El Mirador/ElMirador-2.jpg" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/el mirador/elmirador-3.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/el mirador/elmirador-3.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/El Mirador/ElMirador-3.jpg">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/El Mirador/ElMirador-3.jpg" alt="Thumbnail">
 	    </a>
 	  </li>
 	</ul>
