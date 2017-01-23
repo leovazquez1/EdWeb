@@ -2,73 +2,73 @@
 layout: post
 title:  "Escorial"
 date:   2015-10-12 15:39:40
-preview: /Propiedades/venta/escorial/img_4407.jpg
+preview: /Propiedades/venta/Escorial/IMG_4407.JPG
 ---
 
 <center>
 	<div class="mainImg">
-		<img src="/Propiedades/venta/escorial/img_4407.jpg" class="custom">
+		<img src="/Edweb/Propiedades/venta/Escorial/IMG_4407.JPG" class="custom">
 	</div>
 	<!--aqui comienza las fotos pequeñas -->
 	<ul class="thumbnails">
 	  <li>
-	    <a href="/Propiedades/venta/escorial/img_4407.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/escorial/img_4407.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Escorial/IMG_4407.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Escorial/IMG_4407.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/escorial/img_4397.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/escorial/img_4397.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Escorial/IMG_4397.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Escorial/IMG_4397.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/escorial/img_4398.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/escorial/img_4398.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Escorial/IMG_4398.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Escorial/IMG_4398.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/escorial/img_4399.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/escorial/img_4399.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Escorial/IMG_4399.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Escorial/IMG_4399.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/escorial/img_4400.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/escorial/img_4400.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Escorial/IMG_4400.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Escorial/IMG_4400.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/escorial/img_4401.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/escorial/img_4401.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Escorial/IMG_4401.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Escorial/IMG_4401.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/escorial/img_4402.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/escorial/img_4402.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Escorial/IMG_4402.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Escorial/IMG_4402.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/escorial/img_4403.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/escorial/img_4403.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Escorial/IMG_4403.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Escorial/IMG_4403.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/escorial/img_4404.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/escorial/img_4404.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Escorial/IMG_4404.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Escorial/IMG_4404.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/escorial/img_4405.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/escorial/img_4405.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Escorial/IMG_4405.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Escorial/IMG_4405.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/escorial/img_4406.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/escorial/img_4406.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Escorial/IMG_4406.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Escorial/IMG_4406.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/escorial/img_4408.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/escorial/img_4408.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Escorial/IMG_4408.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Escorial/IMG_4408.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	</ul>
