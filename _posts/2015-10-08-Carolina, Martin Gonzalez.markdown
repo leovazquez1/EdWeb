@@ -2,47 +2,47 @@
 layout: post
 title:  "Carolina, Martin Gonzalez"
 date:   2015-10-08 15:39:40
-preview: /Propiedades/venta/Bo. Martin Gonzalez- Carolina/IMG_0691.jpg
+preview: /Propiedades/venta/Bo. Martin Gonzalez- Carolina/IMG_0691.JPG
 ---
 
 <center>
 	<div class="mainImg">
-		<img src="/Propiedades/venta/Bo. Martin Gonzalez- Carolina/IMG_0691.jpg" class="custom">
+		<img src="/Edweb/Propiedades/venta/Bo. Martin Gonzalez- Carolina/IMG_0691.JPG" class="custom">
 	</div>
 	<ul class="thumbnails">
 	  <li>
-	    <a href="/Propiedades/venta/Bo. Martin Gonzalez- Carolina/IMG_0691.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/Bo. Martin Gonzalez- Carolina/IMG_0691.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Bo. Martin Gonzalez- Carolina/IMG_0691.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Bo. Martin Gonzalez- Carolina/IMG_0691.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/Bo. Martin Gonzalez- Carolina/IMG_0692.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/Bo. Martin Gonzalez- Carolina/IMG_0692.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Bo. Martin Gonzalez- Carolina/IMG_0692.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Bo. Martin Gonzalez- Carolina/IMG_0692.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/Bo. Martin Gonzalez- Carolina/IMG_0693.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/Bo. Martin Gonzalez- Carolina/IMG_0693.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Bo. Martin Gonzalez- Carolina/IMG_0693.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Bo. Martin Gonzalez- Carolina/IMG_0693.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/Bo. Martin Gonzalez- Carolina/IMG_0694.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/Bo. Martin Gonzalez- Carolina/IMG_0694.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Bo. Martin Gonzalez- Carolina/IMG_0694.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Bo. Martin Gonzalez- Carolina/IMG_0694.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/Bo. Martin Gonzalez- Carolina/IMG_0695.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/Bo. Martin Gonzalez- Carolina/IMG_0695.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Bo. Martin Gonzalez- Carolina/IMG_0695.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Bo. Martin Gonzalez- Carolina/IMG_0695.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/Bo. Martin Gonzalez- Carolina/IMG_0696.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/Bo. Martin Gonzalez- Carolina/IMG_0696.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Bo. Martin Gonzalez- Carolina/IMG_0696.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Bo. Martin Gonzalez- Carolina/IMG_0696.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Propiedades/venta/Bo. Martin Gonzalez- Carolina/IMG_0697.jpg">
-	      <img class="tumbnails" src="/Propiedades/venta/Bo. Martin Gonzalez- Carolina/IMG_0697.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Bo. Martin Gonzalez- Carolina/IMG_0697.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Bo. Martin Gonzalez- Carolina/IMG_0697.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	</ul>
