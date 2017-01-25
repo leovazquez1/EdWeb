@@ -78,7 +78,7 @@ preview: /Propiedades/venta/Loma Alta Village- Carolina/5.JPG
 	  </li>
 	</ul>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-	<script type="text/javascript" src="/js/jquery.simpleGal.js"></script>
+	<script type="text/javascript" src="/Edweb/js/jquery.simpleGal.js"></script>
 	<script>
 		$(document).ready(function () {
 			$('.thumbnails').simpleGal({
