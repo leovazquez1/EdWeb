@@ -38,7 +38,7 @@ preview: /Propiedades/venta/vieques residencial-comercial/Vieques comercial/1.jp
 	  </li>
 	</ul>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-	<script type="text/javascript" src="/js/jquery.simpleGal.js"></script>
+	<script type="text/javascript" src="/Edweb/js/jquery.simpleGal.js"></script>
 	<script>
 		$(document).ready(function () {
 			$('.thumbnails').simpleGal({
