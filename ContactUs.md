@@ -4,8 +4,8 @@ title: Contact Us
 permalink: /ContactUs/
 ---
 
-This is an example of contact us
+<h1>Edgar Acosta</h1>
 
-Bavaria ipsum dolor sit amet hoid a bissal wos gehd ollaweil nomoi. Wolln mei Weißwiaschd sowos, koa Habedehre schaugn san. Foidweg sog i hoggd Kaiwe, wuid Marterl großherzig ned woar.
+<h3>Phone: 787-645-2084</h3>
 
-Obandln singd Hendl spernzaln i hab an singan dringma aweng Hendl oamoi gwiss Fünferl. Xaver Auffisteign vasteh kumm geh i moan oiwei nia om auf’n Gipfe hoam obandeln.
+
