@@ -68,4 +68,4 @@ preview: /Propiedades/venta/vieques residencial-comercial/Vieques residencial/IM
 	</script>
 </center>
 
-Bavaria ipsum dolor sit amet g’hupft wia gsprunga wolln dringma aweng oba Biazelt hogg di hera helfgod. Sog i hawadere midananda nomoi a bissal wos gehd ollaweil gor kumm geh naa jo leck mi, Xaver: Weiznglasl i hob di liab des muas ma hoid kenna.
+3H 1B, 851 pies cuadrados y 334.69 metros cuadrados. Bo. Leguillau E11, en Vieques. Precio 75K como esta, Reparada 90,000. Excelente oportunidad para invertir. Llama hoy!! Edgar Acosta 787 645 2084
