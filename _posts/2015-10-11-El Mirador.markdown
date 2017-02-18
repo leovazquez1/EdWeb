@@ -38,4 +38,4 @@ preview: /Propiedades/venta/El Mirador/ElMirador-1.jpg
 	</script>
 </center>
 
-Bavaria ipsum dolor sit amet g’hupft wia gsprunga wolln dringma aweng oba Biazelt hogg di hera helfgod. Sog i hawadere midananda nomoi a bissal wos gehd ollaweil gor kumm geh naa jo leck mi, Xaver: Weiznglasl i hob di liab des muas ma hoid kenna.
+Tremenda residencia en urbanización El Mirador área de Cupey. Cerca de centro comercial Los Paseos, restaurantes y colegios. La propiedad está 100% remodelada. Tiene 850 M2 de solar. Consta de 4H 21/2B, cómoda y amplia terraza, family, walking closet en el cuarto master, su patio es el más grande de la urbanización. Acceso controlado y seguridad 24 horas. Llama HOY! Edgar Acosta 787 645 2084 
