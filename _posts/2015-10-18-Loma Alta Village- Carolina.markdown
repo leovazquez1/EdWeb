@@ -88,4 +88,4 @@ preview: /Propiedades/venta/Loma Alta Village- Carolina/5.JPG
 	</script>
 </center>
 
-Bavaria ipsum dolor sit amet g’hupft wia gsprunga wolln dringma aweng oba Biazelt hogg di hera helfgod. Sog i hawadere midananda nomoi a bissal wos gehd ollaweil gor kumm geh naa jo leck mi, Xaver: Weiznglasl i hob di liab des muas ma hoid kenna.
+Apartamento mas grande del complejo; Garden de 3 habitaciones, 2 baños, cisterna, incluye los aires acondicionados, cortinas de lona y las cortinas de ventana Román Shade. Pago del mantenimiento $166.00 NO TE LO PIERDAS, LLAMA HOY!! Edgar Acosta 787-645-2084
