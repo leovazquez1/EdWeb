@@ -33,4 +33,4 @@ preview: /Propiedades/venta/Magnolia - Bayamon/IMG_8101.JPG
 	</script>
 </center>
 
-Bavaria ipsum dolor sit amet g’hupft wia gsprunga wolln dringma aweng oba Biazelt hogg di hera helfgod. Sog i hawadere midananda nomoi a bissal wos gehd ollaweil gor kumm geh naa jo leck mi, Xaver: Weiznglasl i hob di liab des muas ma hoid kenna.
+Localizada en la Avenida Magnolia. Cuenta con estacionamientos en frente y 1522 pies cuadrados. Infinidad de posibilidades, almacén, Perfecto para montar o continuar negocio Llama con tu oferta Hoy!! Edgar Acosta 787-645-2084
