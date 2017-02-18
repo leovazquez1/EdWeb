@@ -43,4 +43,4 @@ preview: /Propiedades/venta/Levitown Boulevard/IMG_1036.JPG
 	</script>
 </center>
 
-Bavaria ipsum dolor sit amet g’hupft wia gsprunga wolln dringma aweng oba Biazelt hogg di hera helfgod. Sog i hawadere midananda nomoi a bissal wos gehd ollaweil gor kumm geh naa jo leck mi, Xaver: Weiznglasl i hob di liab des muas ma hoid kenna.
+Propiedad en Liquidación, En el 1er. piso está la propiedad comercial y en 2do. piso la residencial. Ubicada en RA 14 C Aleli Ave. Boulevard, Levitown en plena zona Comercial. Llama Hoy!! Edgar Acosta 787 645 2084 
