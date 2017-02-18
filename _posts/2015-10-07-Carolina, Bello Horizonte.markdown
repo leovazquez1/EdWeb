@@ -66,4 +66,4 @@ preview: /Propiedades/venta/Bello-Horizonte-Carolina/bh3.jpg
 	</script>
 </center>
 
-Bavaria ipsum dolor sit amet g’hupft wia gsprunga wolln dringma aweng oba Biazelt hogg di hera helfgod. Sog i hawadere midananda nomoi a bissal wos gehd ollaweil gor kumm geh naa jo leck mi, Xaver: Weiznglasl i hob di liab des muas ma hoid kenna.
+Con tremenda vista, cómodo apartamento remodelado en el piso 20 con 2H 1B y balcón. Control de acceso, área recreativa, piscina y dentro del edificio se encuentran algunas tienditas. Llama hoy! Edgar Acosta 787-645-2084 
