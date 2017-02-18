@@ -78,4 +78,4 @@ preview: /Propiedades/venta/SAN ANTONIO-CAGUAS/SA1.jpg
 	</script>
 </center>
 
-Bavaria ipsum dolor sit amet g’hupft wia gsprunga wolln dringma aweng oba Biazelt hogg di hera helfgod. Sog i hawadere midananda nomoi a bissal wos gehd ollaweil gor kumm geh naa jo leck mi, Xaver: Weiznglasl i hob di liab des muas ma hoid kenna.
+Se liquida Income Property excelente para invertir, generar dinero de renta y/o vivir gratis. 4 unidades convertibles a 5. 4 contadores de luz. Llama HOY
