@@ -38,4 +38,4 @@ preview: /Propiedades/venta/Las Gaviotas/3.jpg
 	</script>
 </center>
 
-Bavaria ipsum dolor sit amet g’hupft wia gsprunga wolln dringma aweng oba Biazelt hogg di hera helfgod. Sog i hawadere midananda nomoi a bissal wos gehd ollaweil gor kumm geh naa jo leck mi, Xaver: Weiznglasl i hob di liab des muas ma hoid kenna.
+Excelente solar para construir su casa!! Frente a Puerto Del Rey Marina Cuenta con ACCESO DIRECTO A SERVICIOS. 1,019 m2. Urbanización cuenta con control de acceso. Tremenda Oportunidad, Llama Hoy!! Edgar Acosta 787 645 2084 
