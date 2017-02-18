@@ -48,4 +48,4 @@ preview: /Propiedades/venta/vieques residencial-comercial/Vieques comercial/1.jp
 	</script>
 </center>
 
-Bavaria ipsum dolor sit amet g’hupft wia gsprunga wolln dringma aweng oba Biazelt hogg di hera helfgod. Sog i hawadere midananda nomoi a bissal wos gehd ollaweil gor kumm geh naa jo leck mi, Xaver: Weiznglasl i hob di liab des muas ma hoid kenna.
+Amplia propiedad comercial,excelente oportunidad para invertir. Solo 95K bajo tasación y rebajada. Tiene 2 baños mide 2,126 pies cuadrados, 2,344.46 metros cuadrados. La propiedad está ubicada en Sector Isabel 2 # 434, Calle Lebrum, esq. 65th Infantería, Vieques, 00765. Llama Hoy! Edgar Acosta 787 645 2084 
