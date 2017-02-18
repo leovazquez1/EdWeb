@@ -73,4 +73,4 @@ preview: /Propiedades/venta/Mundo Feliz Isla Verde/13.JPG
 	</script>
 </center>
 
-Bavaria ipsum dolor sit amet g’hupft wia gsprunga wolln dringma aweng oba Biazelt hogg di hera helfgod. Sog i hawadere midananda nomoi a bissal wos gehd ollaweil gor kumm geh naa jo leck mi, Xaver: Weiznglasl i hob di liab des muas ma hoid kenna.
+Tremendo Apartamento recién modelado con una vista panorámica espectacular hacia el mar y la ciudad, en el piso 20 tiene 2H 2B, 2 Estacionamientos, Aire de Consola, Calentador, Cisterna, Elevador, Lavadora, Secadora. El complejo cuenta con cancha de baloncesto, gacebo y piscina. Envidiable localización cerca de centros comerciales principales y frente a la playa. Llama hoy! Edgar Acosta 787-645-2084 
