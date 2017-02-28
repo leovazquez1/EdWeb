@@ -117,7 +117,6 @@ pre {
   max-width: 1000px;
   margin-right: auto;
   margin-left: auto;
-  display: inline-block;
   padding-right: 30px;
   padding-left: 30px; }
   @media screen and (max-width: 800px) {
@@ -328,12 +327,13 @@ ul {
 
 /** Seleccion de pueblos en la pagina. **/
 .locationSelector{
-  display: inline-block;
   vertical-align: top;
   border-style: solid;
   border-width: 5px;
   border-color: #879bc5;
-  margin-left: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 238px;
   list-style-type: none;
 }
 #puebloTopMenu{
