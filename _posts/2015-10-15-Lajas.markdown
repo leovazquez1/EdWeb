@@ -1,0 +1,66 @@
+---
+layout: post
+title:  "Lajas"
+date:   2015-10-15 15:39:40
+preview: /Propiedades/venta/Lajas/IMG_2368.JPG
+---
+
+<center>
+	<div class="mainImg">
+		<img src="/Edweb/Propiedades/venta/Lajas/IMG_2368.JPG" class="custom">
+	</div>
+	<!--aqui comienza las fotos pequeñas -->
+	<ul class="thumbnails">
+	  <li>
+	    <a href="/Edweb/Propiedades/venta/Lajas/IMG_2368.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Lajas/IMG_2368.JPG" alt="Thumbnail">
+	    </a>
+	  </li>
+	  <li>
+	    <a href="/Edweb/Propiedades/venta/Lajas/IMG_2351.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Lajas/IMG_2368.JPG" alt="Thumbnail">
+	    </a>
+	  </li>
+	  <li>
+	    <a href="/Edweb/Propiedades/venta/Lajas/IMG_2352.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Lajas/IMG_2352.JPG" alt="Thumbnail">
+	    </a>
+	  </li>
+	  <li>
+	    <a href="/Edweb/Propiedades/venta/Lajas/IMG_2356.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Lajas/IMG_2356.JPG" alt="Thumbnail">
+	    </a>
+	  </li>
+	  <li>
+	    <a href="/Edweb/Propiedades/venta/Lajas/IMG_2367.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Lajas/IMG_2367.JPG" alt="Thumbnail">
+	    </a>
+	  </li>
+	  <li>
+	    <a href="/Edweb/Propiedades/venta/Lajas/IMG_2370.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Lajas/IMG_2370.JPG" alt="Thumbnail">
+	    </a>
+	  </li>
+	  <li>
+	    <a href="/Edweb/Propiedades/venta/Lajas/IMG_2371.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Lajas/IMG_2371.JPG" alt="Thumbnail">
+	    </a>
+	  </li>
+	  <li>
+	    <a href="/Edweb/Propiedades/venta/Lajas/IMG_2372.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Lajas/IMG_2372.JPG" alt="Thumbnail">
+	    </a>
+	  </li>
+	</ul>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+	<script type="text/javascript" src="/Edweb/js/jquery.simpleGal.js"></script>
+	<script>
+		$(document).ready(function () {
+			$('.thumbnails').simpleGal({
+				mainImage: '.custom'
+			});
+		});
+	</script>
+</center>
+
+

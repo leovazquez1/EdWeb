@@ -1,0 +1,44 @@
+---
+layout: post
+title:  "Cabo Rojo"
+date:   2015-10-06 15:39:40
+preview: /Propiedades/venta/cabo rojo/IMG_2335.JPG
+---
+
+<center>
+	<div class="mainImg">
+		<img src="/Edweb/Propiedades/venta/cabo rojo/IMG_2335.JPG" class="custom">
+	</div>
+	<ul class="thumbnails">
+	  <li>
+	    <a href="/Edweb/Propiedades/venta/cabo rojo/IMG_2335.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/cabo rojo/IMG_2335.JPG" alt="Thumbnail">
+	    </a>
+	  </li>
+	  <li>
+	    <a href="/Edweb/Propiedades/venta/cabo rojo/IMG_2342.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/cabo rojo/IMG_2342.JPG" alt="Thumbnail">
+	    </a>
+	  </li>
+	  <li>
+	    <a href="/Edweb/Propiedades/venta/cabo rojo/IMG_2343.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/cabo rojo/IMG_2343.JPG" alt="Thumbnail">
+	    </a>
+	  </li>
+	  <li>
+	    <a href="/Edweb/Propiedades/venta/cabo rojo/IMG_2344.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/cabo rojo/IMG_2344.JPG" alt="Thumbnail">
+	    </a>
+	  </li>
+	</ul>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+	<script type="text/javascript" src="/Edweb/js/jquery.simpleGal.js"></script>
+	<script>
+		$(document).ready(function () {
+			$('.thumbnails').simpleGal({
+				mainImage: '.custom'
+			});
+		});
+	</script>
+</center>
+

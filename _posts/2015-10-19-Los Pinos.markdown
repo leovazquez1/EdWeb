@@ -1,0 +1,91 @@
+---
+layout: post
+title:  "Los Pinos"
+date:   2015-10-19 15:39:40
+preview: /Propiedades/venta/Los Pinos/IMG_6682.JPG
+---
+
+<center>
+	<div class="mainImg">
+		<img src="/Edweb/Propiedades/venta/Los Pinos/IMG_6682.JPG" class="custom">
+	</div>
+	<!--aqui comienza las fotos pequeñas -->
+	<ul class="thumbnails">
+	  <li>
+	    <a href="/Edweb/Propiedades/venta/Los Pinos/IMG_6682.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Los Pinos/IMG_6682.JPG" alt="Thumbnail">
+	    </a>
+	  </li>
+	  <li>
+	    <a href="/Edweb/Propiedades/venta/Los Pinos/IMG_60654.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Los Pinos/IMG_60654.JPG" alt="Thumbnail">
+	    </a>
+	  </li>
+	  <li>
+	    <a href="/Edweb/Propiedades/venta/Los Pinos/IMG_6055.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Los Pinos/IMG_6055.JPG" alt="Thumbnail">
+	    </a>
+	  </li>
+	  <li>
+	    <a href="/Edweb/Propiedades/venta/Los Pinos/IMG_6056.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Los Pinos/IMG_6056.JPG" alt="Thumbnail">
+	    </a>
+	  </li>
+	  <li>
+	    <a href="/Edweb/Propiedades/venta/Los Pinos/IMG_6057.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Los Pinos/IMG_6057.JPG" alt="Thumbnail">
+	    </a>
+	  </li>
+	  <li>
+	    <a href="/Edweb/Propiedades/venta/Los Pinos/IMG_6058.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Los Pinos/IMG_6058.JPG" alt="Thumbnail">
+	    </a>
+	  </li>
+	  <li>
+	    <a href="/Edweb/Propiedades/venta/Los Pinos/IMG_6059.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Los Pinos/IMG_6059.JPG" alt="Thumbnail">
+	    </a>
+	  </li>
+	  <li>
+	    <a href="/Edweb/Propiedades/venta/Los Pinos/IMG_6060.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Los Pinos/IMG_6060.JPG" alt="Thumbnail">
+	    </a>
+	  </li>
+	  <li>
+	    <a href="/Edweb/Propiedades/venta/Los Pinos/IMG_6061.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Los Pinos/IMG_6061.JPG" alt="Thumbnail">
+	    </a>
+	  </li>
+	  <li>
+	    <a href="/Edweb/Propiedades/venta/Los Pinos/IMG_6683.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Los Pinos/IMG_6683.JPG" alt="Thumbnail">
+	    </a>
+	  </li>
+	  <li>
+	    <a href="/Edweb/Propiedades/venta/Los Pinos/IMG_6684.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Los Pinos/IMG_6684.JPG" alt="Thumbnail">
+	    </a>
+	  </li>
+	  <li>
+	    <a href="/Edweb/Propiedades/venta/Los Pinos/IMG_6685.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Los Pinos/IMG_6685.JPG" alt="Thumbnail">
+	    </a>
+	  </li>
+	  <li>
+	    <a href="/Edweb/Propiedades/venta/Los Pinos/IMG_6686.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Los Pinos/IMG_6686.JPG" alt="Thumbnail">
+	    </a>
+	  </li>
+	</ul>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+	<script type="text/javascript" src="/Edweb/js/jquery.simpleGal.js"></script>
+	<script>
+		$(document).ready(function () {
+			$('.thumbnails').simpleGal({
+				mainImage: '.custom'
+			});
+		});
+	</script>
+</center>
+
+Tremendo apartamento en zona turística de playa. 3H-2B, Se entrega semi-amueblado, 100% remodelado, 2 estacionamientos, control de acceso, piscina, gacebo, área recreativa.Frente al Hotel San Juan y Ave. Isla Verde . Llama hoy! Edgar Acosta 787-645-2084 
