@@ -352,3 +352,10 @@ ul {
   .headerIcon:hover{
     text-decoration: none;
   }
+.dropdown{
+  position: relative;
+  display: inline-block;
+}
+.dropdownNav{
+  background-color: rgba(46, 109, 164, 0.25);
+}
