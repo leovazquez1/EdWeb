@@ -113,7 +113,7 @@ pre {
  * Wrapper
  */
 .wrapper {
-  
+
   max-width: 1000px;
   margin-right: auto;
   margin-left: auto;
@@ -298,7 +298,7 @@ img.center{
 }
 img.tumbnails{
   height: 15%;
-  width: 15%; 
+  width: 15%;
   margin: 10px;
 }
 
@@ -316,7 +316,7 @@ ul {
 }
 /** this is the main image of the posts**/
 .mainImg{
-  
+
  }
 .imgText{
   text-align: center;
@@ -344,3 +344,11 @@ ul {
   padding-left: 12px;
   padding-right: 12px;
 }
+.headerIcon{
+  padding: 15px;
+  text-decoration: none;
+  color: #337ab7;
+}
+  .headerIcon:hover{
+    text-decoration: none;
+  }
