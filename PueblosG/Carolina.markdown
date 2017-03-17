@@ -15,8 +15,26 @@ layout: default
 	</a>
 </div>
 <div class="preview-panel">
-	<a href="/Edweb/2015/10/18/Loma-Alta-Village-Carolina/">
-		<img class="preview-images" src="/Edweb/Propiedades/venta/Loma Alta Village- Carolina/5.JPG">
-		<p>Carolina, Loma Alta Village</p>
+	<a href="/Edweb/2015/10/30/vistamar-marina/">
+		<img class="preview-images" src="/Edweb/Propiedades/venta/Carolina, Vistamar Marina/NRG10.JPG">
+		<p>Carolina, Martin Gonzalez</p>
+	</a>
+</div>
+<div class="preview-panel">
+	<a href="/Edweb/2015/11/02/Cape-Sea-Village-Carolina/">
+		<img class="preview-images" src="/Edweb/Propiedades/venta/Isla Verde, Cape Sea Village/NRG18.jpg">
+		<p>Carolina, Sea Village </p>
+	</a>
+</div>
+<div class="preview-panel">
+	<a href="/Edweb/2015/11/06/Garden-View-Carolina/">
+		<img class="preview-images" src="/Edweb/Propiedades/venta/Carolina, Garden View/1.jpg">
+		<p>Carolina, Garden View</p>
+	</a>
+</div>
+<div class="preview-panel">
+	<a href="/Edweb/2015/11/07/Villas-del-mar-carolina/">
+		<img class="preview-images" src="/Edweb/Propiedades/venta/Oficina Isla Verde Villas del Mar/ea 1-15 (11).jpg">
+		<p>Carolina, Officinas Villas del Mar</p>
 	</a>
 </div>
