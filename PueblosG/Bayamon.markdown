@@ -3,14 +3,14 @@ layout: default
 ---
 
 <div class="preview-panel">
-	<a href="/Edweb/2015/10/10/Bayamon,-Valencia/">
-		<img class="preview-images" src="/Edweb/Propiedades/venta/BAYAMON-VALENCIA/ba3.jpg">
-		<p>Bayamon, Valencia</p>
+	<a href="/Edweb/2015-10-20-Bayamon - magnolia">
+		<img src="/Edweb/Propiedades/venta/Magnolia - Bayamon/IMG_8101.JPG" class="custom">
+		<p>Bayamon - Magnolia</p>
 	</a>
 </div>
 <div class="preview-panel">
-	<a href="/Edweb/2015/10/23/Palacios-Bayamon/">
-		<img  class="preview-images" src="/Edweb/Propiedades/venta/Palacios- Bayamon/9.JPG">
-		<p>Bayamon, Palacios</p>
+	<a href="/Edweb/2015/11/01/Santa-Rosa-Bayamon/">
+		<img src="/Edweb/Propiedades/venta/Urb. Santa Rosa, Bayamon/NRG1.JPG" class="custom">
+		<p>Bayamon - Magnolia</p>
 	</a>
 </div>
