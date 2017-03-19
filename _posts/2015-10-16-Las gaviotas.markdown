@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Las Gaviotas"
+title:  " - Las Gaviotas"
 date:   2015-10-16 15:39:40
 preview: /Propiedades/venta/Las Gaviotas/3.jpg
 ---
@@ -38,4 +38,4 @@ preview: /Propiedades/venta/Las Gaviotas/3.jpg
 	</script>
 </center>
 
-Excelente solar para construir su casa!! Frente a Puerto Del Rey Marina Cuenta con ACCESO DIRECTO A SERVICIOS. 1,019 m2. Urbanización cuenta con control de acceso. Tremenda Oportunidad, Llama Hoy!! Edgar Acosta 787 645 2084 
+Excelente solar para construir su casa!! Frente a Puerto Del Rey Marina Cuenta con ACCESO DIRECTO A SERVICIOS. 1,019 m2. Urbanización cuenta con control de acceso. Tremenda Oportunidad, Llama Hoy!! Edgar Acosta 787 645 2084
