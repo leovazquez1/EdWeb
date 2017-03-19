@@ -2,38 +2,38 @@
 layout: post
 title:  "Garden View, Caroline"
 date:   2015-11-06 15:39:40
-preview: /Propiedades/venta/Carolina, Garden View/1.jpg
+preview: /Propiedades/venta/Carolina, Garden View/1.JPG
 ---
 
 <center>
 	<div class="mainImg">
-		<img src="/Edweb/Propiedades/venta/Carolina, Garden View/1.jpg" class="custom">
+		<img src="/Edweb/Propiedades/venta/Carolina, Garden View/1.JPG" class="custom">
 	</div>
 	<!--aqui comienza las fotos pequeñas -->
 	<ul class="thumbnails">
 	  <li>
-	    <a href="/Edweb/Propiedades/venta/Carolina, Garden View/1.jpg">
-	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Carolina, Garden View/1.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Carolina, Garden View/1.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Carolina, Garden View/1.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Edweb/Propiedades/venta/Carolina, Garden View/2.jpg">
-	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Carolina, Garden View/2.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Carolina, Garden View/2.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Carolina, Garden View/2.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Edweb/Propiedades/venta/Carolina, Garden View/3.jpg">
-	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Carolina, Garden View/3.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Carolina, Garden View/3.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Carolina, Garden View/3.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Edweb/Propiedades/venta/Carolina, Garden View/4.jpg">
-	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Carolina, Garden View/4.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Carolina, Garden View/4.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Carolina, Garden View/4.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Edweb/Propiedades/venta/Carolina, Garden View/5.jpg">
-	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Carolina, Garden View/5.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Carolina, Garden View/5.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Carolina, Garden View/5.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	</ul>
