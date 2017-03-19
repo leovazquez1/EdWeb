@@ -2,83 +2,83 @@
 layout: post
 title:  "Villas del Mar, Carolina"
 date:   2015-11-07 15:39:40
-preview: /Propiedades/venta/Oficina Isla Verde Villas del Mar/ea 1-15 (11).jpg
+preview: /Propiedades/venta/Oficina Isla Verde Villas del Mar/ea 1-15 (11).JPG
 ---
 
 <center>
 	<div class="mainImg">
-		<img src="/Edweb/Propiedades/venta/Oficina Isla Verde Villas del Mar/ea 1-15 (11).jpg" class="custom">
+		<img src="/Edweb/Propiedades/venta/Oficina Isla Verde Villas del Mar/ea 1-15 (11).JPG" class="custom">
 	</div>
 	<!--aqui comienza las fotos pequeñas -->
 	<ul class="thumbnails">
 	  <li>
-	    <a href="/Edweb/Propiedades/venta/Oficina Isla Verde Villas del Mar/ea 1-15 (11).jpg">
-	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Oficina Isla Verde Villas del Mar/ea 1-15 (11).jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Oficina Isla Verde Villas del Mar/ea 1-15 (11).JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Oficina Isla Verde Villas del Mar/ea 1-15 (11).JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Edweb/Propiedades/venta/Oficina Isla Verde Villas del Mar/ea 1-15 (1).jpg">
-	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Oficina Isla Verde Villas del Mar/ea 1-15 (1).jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Oficina Isla Verde Villas del Mar/ea 1-15 (1).JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Oficina Isla Verde Villas del Mar/ea 1-15 (1).JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Edweb/Propiedades/venta/Oficina Isla Verde Villas del Mar/ea 1-15 (2).jpg">
-	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Oficina Isla Verde Villas del Mar/ea 1-15 (2).jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Oficina Isla Verde Villas del Mar/ea 1-15 (2).JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Oficina Isla Verde Villas del Mar/ea 1-15 (2).JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Edweb/Propiedades/venta/Oficina Isla Verde Villas del Mar/ea 1-15 (3).jpg">
-	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Oficina Isla Verde Villas del Mar/ea 1-15 (3).jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Oficina Isla Verde Villas del Mar/ea 1-15 (3).JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Oficina Isla Verde Villas del Mar/ea 1-15 (3).JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Edweb/Propiedades/venta/Oficina Isla Verde Villas del Mar/ea 1-15 (4).jpg">
-	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Oficina Isla Verde Villas del Mar/ea 1-15 (4).jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Oficina Isla Verde Villas del Mar/ea 1-15 (4).JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Oficina Isla Verde Villas del Mar/ea 1-15 (4).JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Edweb/Propiedades/venta/Oficina Isla Verde Villas del Mar/ea 1-15 (5).jpg">
-	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Oficina Isla Verde Villas del Mar/ea 1-15 (5).jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Oficina Isla Verde Villas del Mar/ea 1-15 (5).JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Oficina Isla Verde Villas del Mar/ea 1-15 (5).JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Edweb/Propiedades/venta/Oficina Isla Verde Villas del Mar/ea 1-15 (6).jpg">
-	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Oficina Isla Verde Villas del Mar/ea 1-15 (6).jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Oficina Isla Verde Villas del Mar/ea 1-15 (6).JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Oficina Isla Verde Villas del Mar/ea 1-15 (6).JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 		<li>
-	    <a href="/Edweb/Propiedades/venta/Oficina Isla Verde Villas del Mar/ea 1-15 (7).jpg">
-	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Oficina Isla Verde Villas del Mar/ea 1-15 (7).jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Oficina Isla Verde Villas del Mar/ea 1-15 (7).JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Oficina Isla Verde Villas del Mar/ea 1-15 (7).JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 		<li>
-	    <a href="/Edweb/Propiedades/venta/Oficina Isla Verde Villas del Mar/ea 1-15 (8).jpg">
-	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Oficina Isla Verde Villas del Mar/ea 1-15 (8).jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Oficina Isla Verde Villas del Mar/ea 1-15 (8).JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Oficina Isla Verde Villas del Mar/ea 1-15 (8).JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 		<li>
-	    <a href="/Edweb/Propiedades/venta/Oficina Isla Verde Villas del Mar/ea 1-15 (9).jpg">
-	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Oficina Isla Verde Villas del Mar/ea 1-15 (9).jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Oficina Isla Verde Villas del Mar/ea 1-15 (9).JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Oficina Isla Verde Villas del Mar/ea 1-15 (9).JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 		<li>
-	    <a href="/Edweb/Propiedades/venta/Oficina Isla Verde Villas del Mar/ea 1-15 (10).jpg">
-	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Oficina Isla Verde Villas del Mar/ea 1-15 (10).jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Oficina Isla Verde Villas del Mar/ea 1-15 (10).JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Oficina Isla Verde Villas del Mar/ea 1-15 (10).JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 		<li>
-	    <a href="/Edweb/Propiedades/venta/Oficina Isla Verde Villas del Mar/ea 1-15 (12).jpg">
-	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Oficina Isla Verde Villas del Mar/ea 1-15 (12).jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Oficina Isla Verde Villas del Mar/ea 1-15 (12).JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Oficina Isla Verde Villas del Mar/ea 1-15 (12).JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 		<li>
-	    <a href="/Edweb/Propiedades/venta/Oficina Isla Verde Villas del Mar/ea 1-15 (13).jpg">
-	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Oficina Isla Verde Villas del Mar/ea 1-15 (13).jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Oficina Isla Verde Villas del Mar/ea 1-15 (13).JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Oficina Isla Verde Villas del Mar/ea 1-15 (13).JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 		<li>
-	    <a href="/Edweb/Propiedades/venta/Oficina Isla Verde Villas del Mar/ea 1-15 (14).jpg">
-	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Oficina Isla Verde Villas del Mar/ea 1-15 (14).jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Oficina Isla Verde Villas del Mar/ea 1-15 (14).JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Oficina Isla Verde Villas del Mar/ea 1-15 (14).JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	</ul>

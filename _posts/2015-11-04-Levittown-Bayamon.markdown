@@ -2,68 +2,68 @@
 layout: post
 title:  "Levittown, Bayamon"
 date:   2015-11-04 15:39:40
-preview: /Propiedades/venta/Levittown Toa Baja Residencial/NRG1.jpg
+preview: /Propiedades/venta/Levittown Toa Baja Residencial/NRG1.JPG
 ---
 
 <center>
 	<div class="mainImg">
-		<img src="/Edweb/Propiedades/venta/Levittown Toa Baja Residencial/NRG1.jpg" class="custom">
+		<img src="/Edweb/Propiedades/venta/Levittown Toa Baja Residencial/NRG1.JPG" class="custom">
 	</div>
 	<!--aqui comienza las fotos pequeñas -->
 	<ul class="thumbnails">
 	  <li>
-	    <a href="/Edweb/Propiedades/venta/Levittown Toa Baja Residencial/NRG1.jpg">
-	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Levittown Toa Baja Residencial/NRG1.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Levittown Toa Baja Residencial/NRG1.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Levittown Toa Baja Residencial/NRG1.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Edweb/Propiedades/venta/Levittown Toa Baja Residencial/NRG2.jpg">
-	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Levittown Toa Baja Residencial/NRG2.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Levittown Toa Baja Residencial/NRG2.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Levittown Toa Baja Residencial/NRG2.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Edweb/Propiedades/venta/Levittown Toa Baja Residencial/NRG3.jpg">
-	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Levittown Toa Baja Residencial/NRG3.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Levittown Toa Baja Residencial/NRG3.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Levittown Toa Baja Residencial/NRG3.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Edweb/Propiedades/venta/Levittown Toa Baja Residencial/NRG4.jpg">
-	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Levittown Toa Baja Residencial/NRG4.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Levittown Toa Baja Residencial/NRG4.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Levittown Toa Baja Residencial/NRG4.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Edweb/Propiedades/venta/Levittown Toa Baja Residencial/NRG5.jpg">
-	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Levittown Toa Baja Residencial/NRG5.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Levittown Toa Baja Residencial/NRG5.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Levittown Toa Baja Residencial/NRG5.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Edweb/Propiedades/venta/Levittown Toa Baja Residencial/NRG6.jpg">
-	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Levittown Toa Baja Residencial/NRG6.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Levittown Toa Baja Residencial/NRG6.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Levittown Toa Baja Residencial/NRG6.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Edweb/Propiedades/venta/Levittown Toa Baja Residencial/NRG7.jpg">
-	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Levittown Toa Baja Residencial/NRG7.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Levittown Toa Baja Residencial/NRG7.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Levittown Toa Baja Residencial/NRG7.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 		<li>
-		 <a href="/Edweb/Propiedades/venta/Levittown Toa Baja Residencial/NRG8.jpg">
-			 <img class="tumbnails" src="/Edweb/Propiedades/venta/Levittown Toa Baja Residencial/NRG8.jpg" alt="Thumbnail">
+		 <a href="/Edweb/Propiedades/venta/Levittown Toa Baja Residencial/NRG8.JPG">
+			 <img class="tumbnails" src="/Edweb/Propiedades/venta/Levittown Toa Baja Residencial/NRG8.JPG" alt="Thumbnail">
 		 </a>
 	 </li>
 	 <li>
-		 <a href="/Edweb/Propiedades/venta/Levittown Toa Baja Residencial/NRG9.jpg">
-			 <img class="tumbnails" src="/Edweb/Propiedades/venta/Levittown Toa Baja Residencial/NRG9.jpg" alt="Thumbnail">
+		 <a href="/Edweb/Propiedades/venta/Levittown Toa Baja Residencial/NRG9.JPG">
+			 <img class="tumbnails" src="/Edweb/Propiedades/venta/Levittown Toa Baja Residencial/NRG9.JPG" alt="Thumbnail">
 		 </a>
 	 </li>
 	 <li>
-		 <a href="/Edweb/Propiedades/venta/Levittown Toa Baja Residencial/NRG10.jpg">
-			 <img class="tumbnails" src="/Edweb/Propiedades/venta/Levittown Toa Baja Residencial/NRG10.jpg" alt="Thumbnail">
+		 <a href="/Edweb/Propiedades/venta/Levittown Toa Baja Residencial/NRG10.JPG">
+			 <img class="tumbnails" src="/Edweb/Propiedades/venta/Levittown Toa Baja Residencial/NRG10.JPG" alt="Thumbnail">
 		 </a>
 	 </li>
 	 <li>
-		 <a href="/Edweb/Propiedades/venta/Levittown Toa Baja Residencial/NRG11.jpg">
-			 <img class="tumbnails" src="/Edweb/Propiedades/venta/Levittown Toa Baja Residencial/NRG11.jpg" alt="Thumbnail">
+		 <a href="/Edweb/Propiedades/venta/Levittown Toa Baja Residencial/NRG11.JPG">
+			 <img class="tumbnails" src="/Edweb/Propiedades/venta/Levittown Toa Baja Residencial/NRG11.JPG" alt="Thumbnail">
 		 </a>
 	 </li>
 	</ul>
