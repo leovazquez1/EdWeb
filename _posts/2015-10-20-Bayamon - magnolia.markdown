@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Bayamón, Magnolia"
+title:  "Magnolia, Bayamon"
 date:   2015-10-20 15:39:40
 preview: /Propiedades/venta/Magnolia - Bayamon/IMG_8101.JPG
 ---

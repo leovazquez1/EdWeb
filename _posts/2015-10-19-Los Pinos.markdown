@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  " - Los Pinos"
+title:  " - Los Pinos, Isla Verde"
 date:   2015-10-19 15:39:40
 preview: /Propiedades/venta/Los Pinos/IMG_6682.JPG
 ---

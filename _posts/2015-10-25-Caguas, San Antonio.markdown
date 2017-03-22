@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Caguas, San Antonio"
+title:  "San Antonio, Caguas"
 date:   2015-10-25 15:39:40
 preview: /Propiedades/venta/SAN ANTONIO-CAGUAS/SA1.jpg
 ---

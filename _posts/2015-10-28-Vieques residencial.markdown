@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Vieques"
+title:  "Residencial, Vieques"
 date:   2015-10-28 15:39:40
 preview: /Propiedades/venta/vieques residencial-comercial/Vieques residencial/IMG_4777.JPG
 ---

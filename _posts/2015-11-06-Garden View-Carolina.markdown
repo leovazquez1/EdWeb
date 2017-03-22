@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Garden View, Caroline"
+title:  "Garden View, Carolina"
 date:   2015-11-06 15:39:40
 preview: /Propiedades/venta/Carolina, Garden View/1.JPG
 ---
