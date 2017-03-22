@@ -73,4 +73,6 @@ preview: /Propiedades/venta/Urb. Santa Rosa, Bayamon/NRG1.JPG
 	</script>
 </center>
 
+<center><h2>$110,000</h2></center>
+
 Recientemente re-modelada, esta consta de 4 habitaciones, 1.5 baño y terraza. Propiedad tiene puerta, cocina y baños re modelados. Cerca de centro comercial, escuelas y etc. NO TE PIERDAS ESTA OFERTA BAJO TASACIÓN, LLAMA HOY!! Edgar Acosta 787-645-2084

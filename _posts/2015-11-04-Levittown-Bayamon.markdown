@@ -78,4 +78,6 @@ preview: /Propiedades/venta/Levittown Toa Baja Residencial/NRG1.JPG
 	</script>
 </center>
 
+<center><h2>$95,000</h2></center>
+
 Remodelada Casa!! con 3 habitaciones, 2 baños, amplio patio, storage y terraza. Está localizada en Paseo Aurea L2848 Levittown cerca de la playa. CUALIFICA PARA FHA Llama Hoy!! 787-645-2084

@@ -128,4 +128,6 @@ preview: /Propiedades/venta/Carolina, Vistamar Marina/NRG10.JPG
 	</script>
 </center>
 
+<center><h2>$795,000</h2></center>
+
 Tremenda propiedad en Mansiones De Vistamar Marina Este, La residencia consta de 4 habitaciones ,3.5 baños, amplio patio, marquesina, terraza, hermosa piscina, muelle, área de laundry, family, sistema de filtración de agua con tanques de reserva. La urbanización consta con control de acceso, cancha de tennis, baloncesto y casa club. ¡La Propiedad esta para 795K, Llama Hoy! Edgar Acosta 787-645-2084

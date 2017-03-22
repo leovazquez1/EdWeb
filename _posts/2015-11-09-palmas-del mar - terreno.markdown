@@ -38,4 +38,6 @@ preview: /Propiedades/venta/Terreno en Palmas del Mar/NRG 1.JPG
 	</script>
 </center>
 
-Oportunidad de comprar/invertir, solar con muelle en exclusiva área de Palmas del Mar. Esta área te permite construir Villa para que puedas generar $ de renta vacacional. Ubicada en 219 MC EN BAHÍA DEL SUR #9 PALMAS DEL MAR. Increíble liquidación por debajo Tasación (300k) AGUA Y ELECTRICIDAD DISPONIBLE EN MUELLE. Llama Hoy! Edgar Acosta 787-645-2084 
+<center><h2>$178,995</h2></center>
+
+Oportunidad de comprar/invertir, solar con muelle en exclusiva área de Palmas del Mar. Esta área te permite construir Villa para que puedas generar $ de renta vacacional. Ubicada en 219 MC EN BAHÍA DEL SUR #9 PALMAS DEL MAR. Increíble liquidación por debajo Tasación (300k) AGUA Y ELECTRICIDAD DISPONIBLE EN MUELLE. Llama Hoy! Edgar Acosta 787-645-2084

@@ -103,4 +103,6 @@ preview: /Propiedades/venta/Rincon residencia/17.jpg
 	</script>
 </center>
 
+<center><h2>$200,000</h2></center>
+
 Casa de 4 cuartos y 2 baños en Caguabo donde el patio es la playa, perfecta para inversión, SE VENDE AMUEBLADA! NO PIERDAS ESTA OPORTUNIDAD! Edgar Acosta 787-645-2084

@@ -78,4 +78,6 @@ preview: /Propiedades/venta/SAN ANTONIO-CAGUAS/SA1.jpg
 	</script>
 </center>
 
+<center><h2>$120,000</h2></center>
+
 Se liquida Income Property excelente para invertir, generar dinero de renta y/o vivir gratis. 4 unidades convertibles a 5. 4 contadores de luz. Llama HOY

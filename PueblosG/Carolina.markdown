@@ -44,3 +44,9 @@ layout: default
 		<p>Carolina, Mundo Feliz</p>
 	</a>
 </div>
+<div class="preview-panel">
+	<a href="/Edweb/2015/11/11/Pontezuela-Carolina/">
+		<img class="preview-images" src="/Edweb/Propiedades/venta/Condominio Pontezuela, Carolina/NRG-1-16 (18).JPG">
+		<p>Carolina, Pontezuela</p>
+	</a>
+</div>

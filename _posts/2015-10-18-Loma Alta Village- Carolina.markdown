@@ -88,4 +88,6 @@ preview: /Propiedades/venta/Loma Alta Village- Carolina/5.JPG
 	</script>
 </center>
 
+<center><h2>$120,000</h2></center>
+
 Apartamento mas grande del complejo; Garden de 3 habitaciones, 2 baños, cisterna, incluye los aires acondicionados, cortinas de lona y las cortinas de ventana Román Shade. Pago del mantenimiento $166.00 NO TE LO PIERDAS, LLAMA HOY!! Edgar Acosta 787-645-2084

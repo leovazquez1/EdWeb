@@ -93,4 +93,6 @@ preview: /Propiedades/venta/Oficina Isla Verde Villas del Mar/ea 1-15 (11).JPG
 	</script>
 </center>
 
+<center><h2>$150,000</h2></center>
+
 TREMENDA OFICINA POR TREMENDO PRECIO! Esta oficina se encuentra localizada en área Turística/Comercial, consta de aprox. 865 p/c de area funcional. Incluye las facilidades del condominio, piscina, gimnasio, acceso ditecto a la playa. Comodo Pago de mantenimiento de $ 164.00 Llamo Hoy! Edgar Acosta 787-645-2084

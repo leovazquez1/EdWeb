@@ -68,4 +68,6 @@ preview: /Propiedades/venta/Cabo Rojo, residencial/IMG_0372.JPG
 	</script>
 </center>
 
+<center><h2>$70,000</h2></center>
+
 Liquidación!! CHALET de dos pisos en el área de Cabo Rojo a 3 minutos de la playa de Combate y 5 min. del pueblo de Boqueron. 3 habitaciones 2 baños, piscina, terreno llano en zona residencial (4 cuerdas). Tremenda oportunidad para invertir. Llama Hoy! Edgar Acosta 787 645 2084

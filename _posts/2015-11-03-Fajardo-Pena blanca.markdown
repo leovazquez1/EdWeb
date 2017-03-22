@@ -58,4 +58,6 @@ preview: /Propiedades/venta/Fajardo-pena blanca/NRG7.jpg
 	</script>
 </center>
 
+<center><h2>$195,000</h2></center>
+
 Liquidación 2,105 p2, preciosa vista al mar, perfecto para Invertir. El complejo cuenta con tres piscinas, cancha de tenis, media cancha de baloncesto, senderos para caminar, Casa Club con sauna, gimnasio con aire acondicionado, cisterna de agua potable, generadores eléctricos con cobertura para los apartamentos y para todas las áreas comunes, acceso controlado con tele-entry en caseta de seguridad. Llama hoy! Edgar Acosta 787 645 2084

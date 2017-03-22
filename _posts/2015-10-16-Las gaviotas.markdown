@@ -38,4 +38,6 @@ preview: /Propiedades/venta/Las Gaviotas/3.jpg
 	</script>
 </center>
 
+<center><h2>$35,000</h2></center>
+
 Excelente solar para construir su casa!! Frente a Puerto Del Rey Marina Cuenta con ACCESO DIRECTO A SERVICIOS. 1,019 m2. Urbanización cuenta con control de acceso. Tremenda Oportunidad, Llama Hoy!! Edgar Acosta 787 645 2084
