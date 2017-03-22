@@ -16,49 +16,125 @@ preview: /Propiedades/venta/Villa Palmeras, San Juan/NRG1.JPG
 	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Villa Palmeras, San Juan/NRG1.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
-	  <li>
-	    <a href="/Edweb/Propiedades/venta/Villa Palmeras, San Juan/NRG2.JPG">
-	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Villa Palmeras, San Juan/NRG2.JPG" alt="Thumbnail">
-	    </a>
-	  </li>
-	  <li>
-	    <a href="/Edweb/Propiedades/venta/Villa Palmeras, San Juan/NRG3.JPG">
-	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Villa Palmeras, San Juan/NRG3.JPG" alt="Thumbnail">
-	    </a>
-	  </li>
-	  <li>
-	    <a href="/Edweb/Propiedades/venta/Villa Palmeras, San Juan/NRG4.JPG">
-	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Villa Palmeras, San Juan/NRG4.JPG" alt="Thumbnail">
-	    </a>
-	  </li>
-	  <li>
-	    <a href="/Edweb/Propiedades/venta/Villa Palmeras, San Juan/NRG5.JPG">
-	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Villa Palmeras, San Juan/NRG5.JPG" alt="Thumbnail">
-	    </a>
-	  </li>
-	  <li>
-	    <a href="/Edweb/Propiedades/venta/Villa Palmeras, San Juan/NRG6.JPG">
-	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Villa Palmeras, San Juan/NRG6.JPG" alt="Thumbnail">
-	    </a>
-	  </li>
-	  <li>
-	    <a href="/Edweb/Propiedades/venta/Villa Palmeras, San Juan/NRG7.JPG">
-	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Villa Palmeras, San Juan/NRG7.JPG" alt="Thumbnail">
+		<li>
+	    <a href="/Edweb/Propiedades/venta/Villa Palmeras, San Juan/1.jpg">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Villa Palmeras, San Juan/1.jpg" alt="Thumbnail">
 	    </a>
 	  </li>
 		<li>
-	    <a href="/Edweb/Propiedades/venta/Villa Palmeras, San Juan/NRG8.JPG">
-	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Villa Palmeras, San Juan/NRG8.JPG" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Villa Palmeras, San Juan/2.jpg">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Villa Palmeras, San Juan/2.jpg" alt="Thumbnail">
 	    </a>
 	  </li>
 		<li>
-	    <a href="/Edweb/Propiedades/venta/Villa Palmeras, San Juan/NRG9.JPG">
-	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Villa Palmeras, San Juan/NRG9.JPG" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Villa Palmeras, San Juan/3.jpg">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Villa Palmeras, San Juan/3.jpg" alt="Thumbnail">
 	    </a>
 	  </li>
 		<li>
-	    <a href="/Edweb/Propiedades/venta/Villa Palmeras, San Juan/NRG10.JPG">
-	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Villa Palmeras, San Juan/NRG10.JPG" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Villa Palmeras, San Juan/4.jpg">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Villa Palmeras, San Juan/4.jpg" alt="Thumbnail">
+	    </a>
+	  </li>
+		<li>
+	    <a href="/Edweb/Propiedades/venta/Villa Palmeras, San Juan/5.jpg">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Villa Palmeras, San Juan/5.jpg" alt="Thumbnail">
+	    </a>
+	  </li>
+		<li>
+	    <a href="/Edweb/Propiedades/venta/Villa Palmeras, San Juan/6.jpg">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Villa Palmeras, San Juan/6.jpg" alt="Thumbnail">
+	    </a>
+	  </li>
+		<li>
+	    <a href="/Edweb/Propiedades/venta/Villa Palmeras, San Juan/7.jpg">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Villa Palmeras, San Juan/7.jpg" alt="Thumbnail">
+	    </a>
+	  </li>
+		<li>
+	    <a href="/Edweb/Propiedades/venta/Villa Palmeras, San Juan/8.jpg">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Villa Palmeras, San Juan/8.jpg" alt="Thumbnail">
+	    </a>
+	  </li>
+		<li>
+	    <a href="/Edweb/Propiedades/venta/Villa Palmeras, San Juan/9.jpg">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Villa Palmeras, San Juan/9.jpg" alt="Thumbnail">
+	    </a>
+	  </li>
+		v
+		<li>
+	    <a href="/Edweb/Propiedades/venta/Villa Palmeras, San Juan/10.jpg">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Villa Palmeras, San Juan/10.jpg" alt="Thumbnail">
+	    </a>
+	  </li>
+		<li>
+	    <a href="/Edweb/Propiedades/venta/Villa Palmeras, San Juan/11.jpg">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Villa Palmeras, San Juan/11.jpg" alt="Thumbnail">
+	    </a>
+	  </li>
+		<li>
+	    <a href="/Edweb/Propiedades/venta/Villa Palmeras, San Juan/12.jpg">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Villa Palmeras, San Juan/12.jpg" alt="Thumbnail">
+	    </a>
+	  </li>
+		<li>
+	    <a href="/Edweb/Propiedades/venta/Villa Palmeras, San Juan/13.jpg">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Villa Palmeras, San Juan/13.jpg" alt="Thumbnail">
+	    </a>
+	  </li>
+		<li>
+	    <a href="/Edweb/Propiedades/venta/Villa Palmeras, San Juan/14.jpg">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Villa Palmeras, San Juan/14.jpg" alt="Thumbnail">
+	    </a>
+	  </li>
+		<li>
+	    <a href="/Edweb/Propiedades/venta/Villa Palmeras, San Juan/15.jpg">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Villa Palmeras, San Juan/15.jpg" alt="Thumbnail">
+	    </a>
+	  </li>
+		<li>
+	    <a href="/Edweb/Propiedades/venta/Villa Palmeras, San Juan/16.jpg">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Villa Palmeras, San Juan/16.jpg" alt="Thumbnail">
+	    </a>
+	  </li>
+		<li>
+	    <a href="/Edweb/Propiedades/venta/Villa Palmeras, San Juan/17.jpg">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Villa Palmeras, San Juan/17.jpg" alt="Thumbnail">
+	    </a>
+	  </li>
+		<li>
+	    <a href="/Edweb/Propiedades/venta/Villa Palmeras, San Juan/18.jpg">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Villa Palmeras, San Juan/18.jpg" alt="Thumbnail">
+	    </a>
+	  </li>
+		<li>
+	    <a href="/Edweb/Propiedades/venta/Villa Palmeras, San Juan/19.jpg">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Villa Palmeras, San Juan/19.jpg" alt="Thumbnail">
+	    </a>
+	  </li>
+		<li>
+	    <a href="/Edweb/Propiedades/venta/Villa Palmeras, San Juan/20.jpg">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Villa Palmeras, San Juan/20.jpg" alt="Thumbnail">
+	    </a>
+	  </li>
+		<li>
+	    <a href="/Edweb/Propiedades/venta/Villa Palmeras, San Juan/21.jpg">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Villa Palmeras, San Juan/21.jpg" alt="Thumbnail">
+	    </a>
+	  </li>
+		<li>
+	    <a href="/Edweb/Propiedades/venta/Villa Palmeras, San Juan/22.jpg">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Villa Palmeras, San Juan/22.jpg" alt="Thumbnail">
+	    </a>
+	  </li>
+		<li>
+	    <a href="/Edweb/Propiedades/venta/Villa Palmeras, San Juan/23.jpg">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Villa Palmeras, San Juan/23.jpg" alt="Thumbnail">
+	    </a>
+	  </li>
+		<li>
+	    <a href="/Edweb/Propiedades/venta/Villa Palmeras, San Juan/24.jpg">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Villa Palmeras, San Juan/24.jpg" alt="Thumbnail">
 	    </a>
 	  </li>
 	</ul>
