@@ -38,4 +38,6 @@ preview: /Propiedades/venta/El Mirador/ElMirador-1.jpg
 	</script>
 </center>
 
+<center><h2>$397,000</h2></center>
+
 Tremenda residencia en urbanización El Mirador área de Cupey. Cerca de centro comercial Los Paseos, restaurantes y colegios. La propiedad está 100% remodelada. Tiene 850 M2 de solar. Consta de 4H 21/2B, cómoda y amplia terraza, family, walking closet en el cuarto master, su patio es el más grande de la urbanización. Acceso controlado y seguridad 24 horas. Llama HOY! Edgar Acosta 787 645 2084

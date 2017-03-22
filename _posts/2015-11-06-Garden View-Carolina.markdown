@@ -48,4 +48,6 @@ preview: /Propiedades/venta/Carolina, Garden View/1.JPG
 	</script>
 </center>
 
+<center><h2>$68,999</h2></center>
+
 Se liquida apartamento en Condominio Garden View en excelentes condiciones consta de control de acceso, piscina, estacionamiento y gimnasio Llama HOY! Edgar Acosta 787 645 2084

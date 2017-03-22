@@ -73,4 +73,6 @@ preview: /Propiedades/venta/Villa Palmeras, San Juan/NRG1.JPG
 	</script>
 </center>
 
+<center><h2>$89,000</h2></center>
+
 Propiedad de dos unidades una de 4/1 y otra de 2/1 con 1418 pies de construcción, y 2 cómodas localización, buen patio y dos contadores de luz. Completamente en cemento y marquesina para su auto. VIVE Y ALQUILA. Llama Hoy! Edgar Acosta 787-645-2084

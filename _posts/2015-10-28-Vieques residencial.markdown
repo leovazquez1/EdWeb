@@ -68,4 +68,6 @@ preview: /Propiedades/venta/vieques residencial-comercial/Vieques residencial/IM
 	</script>
 </center>
 
+<center><h2>$75,000</h2></center>
+
 3H 1B, 851 pies cuadrados y 334.69 metros cuadrados. Bo. Leguillau E11, en Vieques. Precio 75K como esta, Reparada 90,000. Excelente oportunidad para invertir. Llama hoy!! Edgar Acosta 787 645 2084

@@ -93,4 +93,6 @@ preview: /Propiedades/venta/Carolina Isla Verde, Mundo Feliz/7.JPG
 	</script>
 </center>
 
+<center><h2>$135,000</h2></center>
+
 Tremendo Apartamento recién modelado con una vista panorámica espectacular hacia el mar y la ciudad, en el piso 20 tiene 2H 2B, 2 Estacionamientos, Aire de Consola, Calentador, Cisterna, Elevador, Lavadora, Secadora. El complejo cuenta con cancha de baloncesto, gacebo y piscina. Envidiable localización cerca de centros comerciales principales y frente a la playa. Llama hoy! Edgar Acosta 787-645-2084
