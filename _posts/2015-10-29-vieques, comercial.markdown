@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Vieques, Comercial"
+title:  "Comercial, Vieques"
 date:   2015-10-29 15:39:40
 preview: /Propiedades/venta/vieques residencial-comercial/Vieques comercial/1.jpg
 ---
@@ -48,4 +48,4 @@ preview: /Propiedades/venta/vieques residencial-comercial/Vieques comercial/1.jp
 	</script>
 </center>
 
-Amplia propiedad comercial,excelente oportunidad para invertir. Solo 95K bajo tasación y rebajada. Tiene 2 baños mide 2,126 pies cuadrados, 2,344.46 metros cuadrados. La propiedad está ubicada en Sector Isabel 2 # 434, Calle Lebrum, esq. 65th Infantería, Vieques, 00765. Llama Hoy! Edgar Acosta 787 645 2084 
+Amplia propiedad comercial,excelente oportunidad para invertir. Solo 95K bajo tasación y rebajada. Tiene 2 baños mide 2,126 pies cuadrados, 2,344.46 metros cuadrados. La propiedad está ubicada en Sector Isabel 2 # 434, Calle Lebrum, esq. 65th Infantería, Vieques, 00765. Llama Hoy! Edgar Acosta 787 645 2084

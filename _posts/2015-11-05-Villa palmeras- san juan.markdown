@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Villa Palemras, San Juan"
+title:  "Villa Palmeras, San Juan"
 date:   2015-11-05 15:39:40
 preview: /Propiedades/venta/Villa Palmeras, San Juan/NRG1.JPG
 ---

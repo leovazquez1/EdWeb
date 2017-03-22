@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Levitown Boulevard"
+title:  "Levitown Boulevard, Bayamon"
 date:   2015-10-17 15:39:40
 preview: /Propiedades/venta/Levitown Boulevard/IMG_1036.JPG
 ---
@@ -43,4 +43,4 @@ preview: /Propiedades/venta/Levitown Boulevard/IMG_1036.JPG
 	</script>
 </center>
 
-Propiedad en Liquidación, En el 1er. piso está la propiedad comercial y en 2do. piso la residencial. Ubicada en RA 14 C Aleli Ave. Boulevard, Levitown en plena zona Comercial. Llama Hoy!! Edgar Acosta 787 645 2084 
+Propiedad en Liquidación, En el 1er. piso está la propiedad comercial y en 2do. piso la residencial. Ubicada en RA 14 C Aleli Ave. Boulevard, Levitown en plena zona Comercial. Llama Hoy!! Edgar Acosta 787 645 2084

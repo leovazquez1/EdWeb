@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  " - Las Gaviotas"
+title:  " - Las Gaviotas, Fajardo"
 date:   2015-10-16 15:39:40
 preview: /Propiedades/venta/Las Gaviotas/3.jpg
 ---

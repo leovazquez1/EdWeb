@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Carolina, Bello Horizonte"
+title:  "Bello Horizonte, Carolina"
 date:   2015-10-07 15:39:40
 preview: /Propiedades/venta/Bello-Horizonte-Carolina/bh3.jpg
 ---
@@ -66,4 +66,4 @@ preview: /Propiedades/venta/Bello-Horizonte-Carolina/bh3.jpg
 	</script>
 </center>
 
-Con tremenda vista, cómodo apartamento remodelado en el piso 20 con 2H 1B y balcón. Control de acceso, área recreativa, piscina y dentro del edificio se encuentran algunas tienditas. Llama hoy! Edgar Acosta 787-645-2084 
+Con tremenda vista, cómodo apartamento remodelado en el piso 20 con 2H 1B y balcón. Control de acceso, área recreativa, piscina y dentro del edificio se encuentran algunas tienditas. Llama hoy! Edgar Acosta 787-645-2084
