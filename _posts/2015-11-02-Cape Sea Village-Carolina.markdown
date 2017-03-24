@@ -17,43 +17,43 @@ preview: /Propiedades/venta/Isla Verde, Cape Sea Village/NRG18.jpg
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Edweb/Propiedades/venta/Isla Verde, Cape Sea Village/NRG1.jpg">
-	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Isla Verde, Cape Sea Village/NRG1.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Isla Verde, Cape Sea Village/NRG1.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Isla Verde, Cape Sea Village/NRG1.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Edweb/Propiedades/venta/Isla Verde, Cape Sea Village/NRG2.jpg">
-	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Isla Verde, Cape Sea Village/NRG2.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Isla Verde, Cape Sea Village/NRG2.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Isla Verde, Cape Sea Village/NRG2.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Edweb/Propiedades/venta/Isla Verde, Cape Sea Village/NRG3.jpg">
-	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Isla Verde, Cape Sea Village/NRG3.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Isla Verde, Cape Sea Village/NRG3.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Isla Verde, Cape Sea Village/NRG3.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Edweb/Propiedades/venta/Isla Verde, Cape Sea Village/NRG4.jpg">
-	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Isla Verde, Cape Sea Village/NRG4.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Isla Verde, Cape Sea Village/NRG4.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Isla Verde, Cape Sea Village/NRG4.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Edweb/Propiedades/venta/Isla Verde, Cape Sea Village/NRG5.jpg">
-	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Isla Verde, Cape Sea Village/NRG5.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Isla Verde, Cape Sea Village/NRG5.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Isla Verde, Cape Sea Village/NRG5.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Edweb/Propiedades/venta/Isla Verde, Cape Sea Village/NRG6.jpg">
-	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Isla Verde, Cape Sea Village/NRG6.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Isla Verde, Cape Sea Village/NRG6.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Isla Verde, Cape Sea Village/NRG6.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 		<li>
-	    <a href="/Edweb/Propiedades/venta/Isla Verde, Cape Sea Village/NRG7.jpg">
-	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Isla Verde, Cape Sea Village/NRG7.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Isla Verde, Cape Sea Village/NRG7.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Isla Verde, Cape Sea Village/NRG7.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 		<li>
-	    <a href="/Edweb/Propiedades/venta/Isla Verde, Cape Sea Village/NRG8.jpg">
-	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Isla Verde, Cape Sea Village/NRG8.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Isla Verde, Cape Sea Village/NRG8.JPG">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Isla Verde, Cape Sea Village/NRG8.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 		<li>
