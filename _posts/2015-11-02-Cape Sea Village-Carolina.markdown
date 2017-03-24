@@ -115,4 +115,4 @@ preview: /Propiedades/venta/Isla Verde, Cape Sea Village/NRG18.jpg
 
 <center><h2>$287,000</h2></center>
 
-Bavaria ipsum dolor sit amet g’hupft wia gsprunga wolln dringma aweng oba Biazelt hogg di hera helfgod. Sog i hawadere midananda nomoi a bissal wos gehd ollaweil gor kumm geh naa jo leck mi, Xaver: Weiznglasl i hob di liab des muas ma hoid kenna.
+100% Remodelada, Esta residencia está a pasos de la playa y consta de 3 habitaciones, 2 baños, 125.35 metros quadrados. Llama Hoy!! Edgar Acosta 787 645 2084 
