@@ -18,7 +18,7 @@ preview: /Propiedades/venta/Los Pinos/IMG_6682.JPG
 	  </li>
 	  <li>
 	    <a href="/Edweb/Propiedades/venta/Los Pinos/IMG_60654.JPG">
-	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Los Pinos/IMG_6054.jpg" alt="Thumbnail">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Los Pinos/IMG_6054.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
