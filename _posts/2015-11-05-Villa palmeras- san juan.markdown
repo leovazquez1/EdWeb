@@ -61,8 +61,7 @@ preview: /Propiedades/venta/Villa Palmeras, San Juan/NRG1.JPG
 	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Villa Palmeras, San Juan/9.jpg" alt="Thumbnail">
 	    </a>
 	  </li>
-		v
-		<li>
+	  <li>
 	    <a href="/Edweb/Propiedades/venta/Villa Palmeras, San Juan/10.jpg">
 	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Villa Palmeras, San Juan/10.jpg" alt="Thumbnail">
 	    </a>
