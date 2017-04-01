@@ -37,11 +37,6 @@ preview: /Propiedades/venta/Rincon Espanol, Trujillo Alto/main.jpg
 	    </a>
 	  </li>
 		<li>
-	    <a href="/Edweb/Propiedades/venta/Rincon Espanol, Trujillo Alto/1 (5).jpg">
-	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Rincon Espanol, Trujillo Alto/1 (5).jpg" alt="Thumbnail">
-	    </a>
-	  </li>
-		<li>
 	    <a href="/Edweb/Propiedades/venta/Rincon Espanol, Trujillo Alto/1 (6).jpg">
 	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Rincon Espanol, Trujillo Alto/1 (6).jpg" alt="Thumbnail">
 	    </a>
