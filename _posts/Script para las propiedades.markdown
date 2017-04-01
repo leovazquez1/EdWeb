@@ -58,4 +58,6 @@ preview: /Propiedades/venta/cabo rojo/IMG_2335.jpg
 	</script>
 </center>
 
+<center><h2>$$$$$</h2></center>
 
+INFO

@@ -41,44 +41,54 @@ preview: /Propiedades/venta/Carolina Isla Verde, Mundo Feliz/7.JPG
 	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Carolina Isla Verde, Mundo Feliz/8.JPG" alt="Thumbnail">
 	    </a>
 	  </li>
-	  <li>
-	    <a href="/Edweb/Propiedades/venta/Carolina Isla Verde, Mundo Feliz/9.jpg">
-	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Carolina Isla Verde, Mundo Feliz/9.jpg" alt="Thumbnail">
+		<li>
+	    <a href="/Edweb/Propiedades/venta/Carolina Isla Verde, Mundo Feliz/1 (1).jpg">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Carolina Isla Verde, Mundo Feliz/1 (1).jpg" alt="Thumbnail">
 	    </a>
 	  </li>
 		<li>
-	    <a href="/Edweb/Propiedades/venta/Carolina Isla Verde, Mundo Feliz/11.jpg">
-	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Carolina Isla Verde, Mundo Feliz/11.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Carolina Isla Verde, Mundo Feliz/1 (2).jpg">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Carolina Isla Verde, Mundo Feliz/1 (2).jpg" alt="Thumbnail">
 	    </a>
 	  </li>
 		<li>
-	    <a href="/Edweb/Propiedades/venta/Carolina Isla Verde, Mundo Feliz/12.jpg">
-	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Carolina Isla Verde, Mundo Feliz/12.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Carolina Isla Verde, Mundo Feliz/1 (3).jpg">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Carolina Isla Verde, Mundo Feliz/1 (3).jpg" alt="Thumbnail">
 	    </a>
 	  </li>
 		<li>
-	    <a href="/Edweb/Propiedades/venta/Carolina Isla Verde, Mundo Feliz/13.jpg">
-	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Carolina Isla Verde, Mundo Feliz/13.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Carolina Isla Verde, Mundo Feliz/1 (4).jpg">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Carolina Isla Verde, Mundo Feliz/1 (4).jpg" alt="Thumbnail">
 	    </a>
 	  </li>
 		<li>
-	    <a href="/Edweb/Propiedades/venta/Carolina Isla Verde, Mundo Feliz/14.jpg">
-	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Carolina Isla Verde, Mundo Feliz/14.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Carolina Isla Verde, Mundo Feliz/1 (5).jpg">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Carolina Isla Verde, Mundo Feliz/1 (5).jpg" alt="Thumbnail">
 	    </a>
 	  </li>
 		<li>
-	    <a href="/Edweb/Propiedades/venta/Carolina Isla Verde, Mundo Feliz/15.jpg">
-	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Carolina Isla Verde, Mundo Feliz/15.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Carolina Isla Verde, Mundo Feliz/1 (6).jpg">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Carolina Isla Verde, Mundo Feliz/1 (6).jpg" alt="Thumbnail">
 	    </a>
 	  </li>
 		<li>
-	    <a href="/Edweb/Propiedades/venta/Carolina Isla Verde, Mundo Feliz/16.jpg">
-	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Carolina Isla Verde, Mundo Feliz/16.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Carolina Isla Verde, Mundo Feliz/1 (7).jpg">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Carolina Isla Verde, Mundo Feliz/1 (7).jpg" alt="Thumbnail">
 	    </a>
 	  </li>
 		<li>
-	    <a href="/Edweb/Propiedades/venta/Carolina Isla Verde, Mundo Feliz/17.jpg">
-	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Carolina Isla Verde, Mundo Feliz/17.jpg" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Carolina Isla Verde, Mundo Feliz/1 (8).jpg">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Carolina Isla Verde, Mundo Feliz/1 (8).jpg" alt="Thumbnail">
+	    </a>
+	  </li>
+		<li>
+	    <a href="/Edweb/Propiedades/venta/Carolina Isla Verde, Mundo Feliz/1 (9).jpg">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Carolina Isla Verde, Mundo Feliz/1 (9).jpg" alt="Thumbnail">
+	    </a>
+	  </li>
+		<li>
+	    <a href="/Edweb/Propiedades/venta/Carolina Isla Verde, Mundo Feliz/1 (10).jpg">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Carolina Isla Verde, Mundo Feliz/1 (10).jpg" alt="Thumbnail">
 	    </a>
 	  </li>
 	</ul>
