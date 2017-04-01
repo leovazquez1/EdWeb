@@ -52,8 +52,8 @@ preview: /Propiedades/venta/Cabo Rojo, residencial/IMG_0372.JPG
 	    </a>
 	  </li>
 		<li>
-	    <a href="/Edweb/Propiedades/venta/Cabo Rojo, residencial/unnamed.JPG">
-	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Cabo Rojo, residencial/unnamed.JPG" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Cabo Rojo, residencial/unnamed.jpg">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Cabo Rojo, residencial/unnamed.jpg" alt="Thumbnail">
 	    </a>
 	  </li>
 	</ul>
