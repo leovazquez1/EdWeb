@@ -17,8 +17,8 @@ preview: /Propiedades/venta/Carolina, Vistamar Marina/NRG10.JPG
 	    </a>
 	  </li>
 	  <li>
-	    <a href="/Edweb/Propiedades/venta/Carolina, Vistamar Marina/NRG1.JPG">
-	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Carolina, Vistamar Marina/NRG1.JPG" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Carolina, Vistamar Marina/NRG1.jpg">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Carolina, Vistamar Marina/NRG1.jpg" alt="Thumbnail">
 	    </a>
 	  </li>
 	  <li>
