@@ -2,60 +2,85 @@
 layout: post
 title:  "Boquerón, Cabo Rojo"
 date:   2015-10-31 15:39:40
-preview: /Propiedades/venta/Cabo Rojo, residencial/IMG_0372.JPG
+preview: /Propiedades/venta/Cabo Rojo, residencial/1 (2).jpg
 ---
 
 <center>
 	<div class="mainImg">
-		<img src="/Edweb/Propiedades/venta/Cabo Rojo, residencial/IMG_0372.JPG" class="custom">
+		<img src="/Edweb/Propiedades/venta/Cabo Rojo, residencial/1 (2).jpg" class="custom">
 	</div>
 	<!--aqui comienza las fotos pequeñas -->
 	<ul class="thumbnails">
 	  <li>
-	    <a href="/Edweb/Propiedades/venta/Cabo Rojo, residencial/IMG_0372.JPG">
-	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Cabo Rojo, residencial/IMG_0372.JPG" alt="Thumbnail">
-	    </a>
-	  </li>
-	  <li>
-	    <a href="/Edweb/Propiedades/venta/Cabo Rojo, residencial/IMG_0368.JPG">
-	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Cabo Rojo, residencial/IMG_0368.JPG" alt="Thumbnail">
-	    </a>
-	  </li>
-	  <li>
-	    <a href="/Edweb/Propiedades/venta/Cabo Rojo, residencial/IMG_0369.PNG">
-	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Cabo Rojo, residencial/IMG_0369.PNG" alt="Thumbnail">
-	    </a>
-	  </li>
-	  <li>
-	    <a href="/Edweb/Propiedades/venta/Cabo Rojo, residencial/IMG_0370.JPG">
-	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Cabo Rojo, residencial/IMG_0370.JPG" alt="Thumbnail">
-	    </a>
-	  </li>
-	  <li>
-	    <a href="/Edweb/Propiedades/venta/Cabo Rojo, residencial/IMG_2342.JPG">
-	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Cabo Rojo, residencial/IMG_2342.JPG" alt="Thumbnail">
-	    </a>
-	  </li>
-	  <li>
-	    <a href="/Edweb/Propiedades/venta/Cabo Rojo, residencial/IMG_2343.JPG">
-	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Cabo Rojo, residencial/IMG_2343.JPG" alt="Thumbnail">
-	    </a>
-	  </li>
-	  <li>
-	    <a href="/Edweb/Propiedades/venta/Cabo Rojo, residencial/IMG_2344.JPG">
-	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Cabo Rojo, residencial/IMG_2344.JPG" alt="Thumbnail">
+	    <a href="/Edweb/Propiedades/venta/Cabo Rojo, residencial/1 (2).jpg">
+	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Cabo Rojo, residencial/1 (2).jpg" alt="Thumbnail">
 	    </a>
 	  </li>
 		<li>
-	    <a href="/Edweb/Propiedades/venta/Cabo Rojo, residencial/IMG_2419.JPG">
-	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Cabo Rojo, residencial/IMG_2419.JPG" alt="Thumbnail">
-	    </a>
-	  </li>
-		<li>
-	    <a href="/Edweb/Propiedades/venta/Cabo Rojo, residencial/unnamed.JPG">
-	      <img class="tumbnails" src="/Edweb/Propiedades/venta/Cabo Rojo, residencial/unnamed.JPG" alt="Thumbnail">
-	    </a>
-	  </li>
+ 		 <a href="/Edweb/Propiedades/venta/Cabo Rojo, residencial/1 (1).jpg">
+ 			 <img class="tumbnails" src="/Edweb/Propiedades/venta/Cabo Rojo, residencial/1 (1).jpg" alt="Thumbnail">
+ 		 </a>
+ 	 </li>
+	 <li>
+		 <a href="/Edweb/Propiedades/venta/Cabo Rojo, residencial/1 (3).jpg">
+			 <img class="tumbnails" src="/Edweb/Propiedades/venta/Cabo Rojo, residencial/1 (3).jpg" alt="Thumbnail">
+		 </a>
+	 </li>
+	 <li>
+		 <a href="/Edweb/Propiedades/venta/Cabo Rojo, residencial/1 (4).jpg">
+			 <img class="tumbnails" src="/Edweb/Propiedades/venta/Cabo Rojo, residencial/1 (4).jpg" alt="Thumbnail">
+		 </a>
+	 </li>
+	 <li>
+		 <a href="/Edweb/Propiedades/venta/Cabo Rojo, residencial/1 (5).jpg">
+			 <img class="tumbnails" src="/Edweb/Propiedades/venta/Cabo Rojo, residencial/1 (5).jpg" alt="Thumbnail">
+		 </a>
+	 </li>
+	 <li>
+		 <a href="/Edweb/Propiedades/venta/Cabo Rojo, residencial/1 (6).jpg">
+			 <img class="tumbnails" src="/Edweb/Propiedades/venta/Cabo Rojo, residencial/1 (6).jpg" alt="Thumbnail">
+		 </a>
+	 </li>
+	 <li>
+		 <a href="/Edweb/Propiedades/venta/Cabo Rojo, residencial/1 (7).jpg">
+			 <img class="tumbnails" src="/Edweb/Propiedades/venta/Cabo Rojo, residencial/1 (7).jpg" alt="Thumbnail">
+		 </a>
+	 </li>
+	 <li>
+		 <a href="/Edweb/Propiedades/venta/Cabo Rojo, residencial/1 (8).jpg">
+			 <img class="tumbnails" src="/Edweb/Propiedades/venta/Cabo Rojo, residencial/1 (8).jpg" alt="Thumbnail">
+		 </a>
+	 </li>
+	 <li>
+		 <a href="/Edweb/Propiedades/venta/Cabo Rojo, residencial/1 (9).jpg">
+			 <img class="tumbnails" src="/Edweb/Propiedades/venta/Cabo Rojo, residencial/1 (9).jpg" alt="Thumbnail">
+		 </a>
+	 </li>
+	 <li>
+		 <a href="/Edweb/Propiedades/venta/Cabo Rojo, residencial/1 (10).jpg">
+			 <img class="tumbnails" src="/Edweb/Propiedades/venta/Cabo Rojo, residencial/1 (10).jpg" alt="Thumbnail">
+		 </a>
+	 </li>
+	 <li>
+		 <a href="/Edweb/Propiedades/venta/Cabo Rojo, residencial/1 (11).jpg">
+			 <img class="tumbnails" src="/Edweb/Propiedades/venta/Cabo Rojo, residencial/1 (11).jpg" alt="Thumbnail">
+		 </a>
+	 </li>
+	 <li>
+		 <a href="/Edweb/Propiedades/venta/Cabo Rojo, residencial/1 (12).jpg">
+			 <img class="tumbnails" src="/Edweb/Propiedades/venta/Cabo Rojo, residencial/1 (12).jpg" alt="Thumbnail">
+		 </a>
+	 </li>
+	 <li>
+		 <a href="/Edweb/Propiedades/venta/Cabo Rojo, residencial/1 (13).jpg">
+			 <img class="tumbnails" src="/Edweb/Propiedades/venta/Cabo Rojo, residencial/1 (13).jpg" alt="Thumbnail">
+		 </a>
+	 </li>
+	 <li>
+		 <a href="/Edweb/Propiedades/venta/Cabo Rojo, residencial/1 (14).jpg">
+			 <img class="tumbnails" src="/Edweb/Propiedades/venta/Cabo Rojo, residencial/1 (14).jpg" alt="Thumbnail">
+		 </a>
+	 </li>
 	</ul>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 	<script type="text/javascript" src="/Edweb/js/jquery.simpleGal.js"></script>
