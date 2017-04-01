@@ -28,13 +28,13 @@ layout: default
 </div>
 <div class="preview-panel">
 	<a href="/Edweb/2015/11/06/Garden-View-Carolina/">
-		<img class="preview-images" src="/Edweb/Propiedades/venta/Carolina, Garden View/1.jpg">
+		<img class="preview-images" src="/Edweb/Propiedades/venta/Carolina, Garden View/1.JPG">
 		<p>Carolina, Garden View</p>
 	</a>
 </div>
 <div class="preview-panel">
 	<a href="/Edweb/2015/11/07/Villas-del-mar-carolina/">
-		<img class="preview-images" src="/Edweb/Propiedades/venta/Oficina Isla Verde Villas del Mar/ea 1-15 (11).jpg">
+		<img class="preview-images" src="/Edweb/Propiedades/venta/Oficina Isla Verde Villas del Mar/ea 1-15 (11).JPG">
 		<p>Carolina, Officinas Villas del Mar</p>
 	</a>
 </div>

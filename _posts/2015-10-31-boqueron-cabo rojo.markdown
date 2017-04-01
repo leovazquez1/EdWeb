@@ -81,6 +81,7 @@ preview: /Propiedades/venta/Cabo Rojo, residencial/1 (2).jpg
 			 <img class="tumbnails" src="/Edweb/Propiedades/venta/Cabo Rojo, residencial/1 (14).jpg" alt="Thumbnail">
 		 </a>
 	 </li>
+
 	</ul>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 	<script type="text/javascript" src="/Edweb/js/jquery.simpleGal.js"></script>
