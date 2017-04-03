@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Levitown Boulevard, Bayamon"
+title:  "Toa Baja Levittown"
 date:   2015-10-17 15:39:40
 preview: /Propiedades/venta/Levitown Boulevard/IMG_1036.JPG
 ---

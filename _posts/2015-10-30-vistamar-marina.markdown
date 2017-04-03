@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Vistamar Marina, Isla Verde"
+title:  "Carolina, Vistamar Marina"
 date:   2015-10-30 15:39:40
 preview: /Propiedades/venta/Carolina, Vistamar Marina/NRG10.JPG
 ---

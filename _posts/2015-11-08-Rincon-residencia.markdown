@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Casa Playa, Rincón"
+title:  "Rincón"
 date:   2015-11-08 15:39:40
 preview: /Propiedades/venta/Rincon residencia/17.jpg
 ---

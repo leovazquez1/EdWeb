@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cape Sea Village, Isla Verde"
+title:  "Isla Verde, Cape Sea Village"
 date:   2015-11-02 15:39:40
 preview: /Propiedades/venta/Isla Verde, Cape Sea Village/NRG18.jpg
 ---

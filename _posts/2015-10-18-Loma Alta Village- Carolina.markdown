@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Loma Alta Village, Carolina"
+title:  "Carolina, Lomas Altas Village"
 date:   2015-10-18 15:39:40
 preview: /Propiedades/venta/Loma Alta Village- Carolina/5.JPG
 ---

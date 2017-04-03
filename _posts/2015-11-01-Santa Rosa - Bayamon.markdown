@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Santa Rosa, Bayamon"
+title:  "Urb. Santa Rosa, Bayamon"
 date:   2015-11-01 15:39:40
 preview: /Propiedades/venta/Urb. Santa Rosa, Bayamon/NRG1.JPG
 ---

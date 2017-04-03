@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "River Valley Park, Canovanas"
+title:  "Canovanas River Valley Park"
 date:   2015-11-12 15:39:40
 preview: /Propiedades/venta/Canovanas River Valley Park/1.jpg
 ---
