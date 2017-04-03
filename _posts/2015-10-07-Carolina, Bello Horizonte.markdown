@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Bello Horizonte, Carolina"
+title:  "San Juan Bello Horizonte"
 date:   2015-10-07 15:39:40
 preview: /Propiedades/venta/Bello-Horizonte-Carolina/bh3.jpg
 ---

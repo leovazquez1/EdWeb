@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Pontezuela, Carolina"
+title:  "Condominio Lucerna, Carolina"
 date:   2015-11-11 15:39:40
 preview: /Propiedades/venta/Condominio Pontezuela, Carolina/NRG-1-16 (18).JPG
 ---

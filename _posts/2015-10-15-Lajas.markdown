@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Barrio-Palmarejo, Lajas"
+title:  "Lajas Palmarejos"
 date:   2015-10-15 15:39:40
 preview: /Propiedades/venta/Lajas/IMG_2368.JPG
 ---

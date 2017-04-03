@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Boquerón, Cabo Rojo"
+title:  "Chalets, Cabo Rojo"
 date:   2015-10-31 15:39:40
 preview: /Propiedades/venta/Cabo Rojo, residencial/1 (2).jpg
 ---

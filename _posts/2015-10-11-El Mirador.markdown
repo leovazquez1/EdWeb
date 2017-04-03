@@ -1,6 +1,6 @@
 ---
 layout: post
-title: " - - El Mirador, Cupey"
+title: " - - Cupey, El Mirador"
 date:   2015-10-11 15:39:40
 preview: /Propiedades/venta/El Mirador/ElMirador-1.jpg
 ---

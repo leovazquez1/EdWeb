@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Levittown, Bayamon"
+title:  "Levittown Toa Baja Residencial"
 date:   2015-11-04 15:39:40
 preview: /Propiedades/venta/Levittown Toa Baja Residencial/NRG1.JPG
 ---

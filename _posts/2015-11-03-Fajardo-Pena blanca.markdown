@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cond. Peña Mar, Fajardo"
+title:  "Fajardo Peña Mar"
 date:   2015-11-03 15:39:40
 preview: /Propiedades/venta/Fajardo-pena blanca/NRG7.jpg
 ---
